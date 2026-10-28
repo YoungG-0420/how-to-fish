@@ -1,0 +1,3758 @@
+{
+  "meshes": [
+    {
+      "source": "Mesh\\Albatross.asset",
+      "output": "Models\\Albatross.glb",
+      "vertices": 2922,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AlbatrossHead.asset",
+      "output": "Models\\AlbatrossHead.glb",
+      "vertices": 769,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Amateur Lure.asset",
+      "output": "Models\\Amateur Lure.glb",
+      "vertices": 385,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Angelfish.asset",
+      "output": "Models\\Angelfish.glb",
+      "vertices": 1476,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AngelfishDrip.asset",
+      "output": "Models\\AngelfishDrip.glb",
+      "vertices": 1492,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Anglerfish.asset",
+      "output": "Models\\Anglerfish.glb",
+      "vertices": 3790,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AnglerfishDrip.asset",
+      "output": "Models\\AnglerfishDrip.glb",
+      "vertices": 3296,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Anvil.asset",
+      "output": "Models\\Anvil.glb",
+      "vertices": 866,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Arm.asset",
+      "output": "Models\\Arm.glb",
+      "vertices": 138,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ArmPuffs.asset",
+      "output": "Models\\ArmPuffs.glb",
+      "vertices": 724,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AshesSphere.asset",
+      "output": "Models\\AshesSphere.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\AssaultRifle.asset",
+      "output": "Models\\AssaultRifle.glb",
+      "vertices": 10535,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleCompensator.asset",
+      "output": "Models\\AssaultRifleCompensator.glb",
+      "vertices": 503,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleDefaultBarrel.asset",
+      "output": "Models\\AssaultRifleDefaultBarrel.glb",
+      "vertices": 1185,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleDefaultSight.asset",
+      "output": "Models\\AssaultRifleDefaultSight.glb",
+      "vertices": 990,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleLaser.asset",
+      "output": "Models\\AssaultRifleLaser.glb",
+      "vertices": 718,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleRedRot.asset",
+      "output": "Models\\AssaultRifleRedRot.glb",
+      "vertices": 667,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleScope.asset",
+      "output": "Models\\AssaultRifleScope.glb",
+      "vertices": 1944,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AssaultRifleSuppressor.asset",
+      "output": "Models\\AssaultRifleSuppressor.glb",
+      "vertices": 1091,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AttachmentBoxBarrel.asset",
+      "output": "Models\\AttachmentBoxBarrel.glb",
+      "vertices": 2526,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AttachmentBoxBullets.asset",
+      "output": "Models\\AttachmentBoxBullets.glb",
+      "vertices": 2519,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AttachmentBoxHighFloor.asset",
+      "output": "Models\\AttachmentBoxHighFloor.glb",
+      "vertices": 64,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\AttachmentBoxSight.asset",
+      "output": "Models\\AttachmentBoxSight.glb",
+      "vertices": 2553,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Badball.asset",
+      "output": "Models\\Badball.glb",
+      "vertices": 108,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BadClothes.asset",
+      "output": "Models\\BadClothes.glb",
+      "vertices": 2570,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BadGlasses.asset",
+      "output": "Models\\BadGlasses.glb",
+      "vertices": 842,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BadHat.asset",
+      "output": "Models\\BadHat.glb",
+      "vertices": 378,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Ball.asset",
+      "output": "Models\\Ball.glb",
+      "vertices": 240,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bass.asset",
+      "output": "Models\\Bass.glb",
+      "vertices": 1663,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BassDrip.asset",
+      "output": "Models\\BassDrip.glb",
+      "vertices": 2152,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BeachGrass.asset",
+      "output": "Models\\BeachGrass.glb",
+      "vertices": 56,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BeachPlant1.asset",
+      "output": "Models\\BeachPlant1.glb",
+      "vertices": 234,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BeachPlant2.asset",
+      "output": "Models\\BeachPlant2.glb",
+      "vertices": 826,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Beanie.asset",
+      "output": "Models\\Beanie.glb",
+      "vertices": 256,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Beard.asset",
+      "output": "Models\\Beard.glb",
+      "vertices": 654,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BeerCan.asset",
+      "output": "Models\\BeerCan.glb",
+      "vertices": 682,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bench2.asset",
+      "output": "Models\\Bench2.glb",
+      "vertices": 640,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BenchSmall.asset",
+      "output": "Models\\BenchSmall.glb",
+      "vertices": 630,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BigMotor.asset",
+      "output": "Models\\BigMotor.glb",
+      "vertices": 1179,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BigPropeller.asset",
+      "output": "Models\\BigPropeller.glb",
+      "vertices": 253,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bikini.asset",
+      "output": "Models\\Bikini.glb",
+      "vertices": 2971,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BingBong.asset",
+      "output": "Models\\BingBong.glb",
+      "vertices": 8889,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BingBongDrip.asset",
+      "output": "Models\\BingBongDrip.glb",
+      "vertices": 8422,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Birdpoop.asset",
+      "output": "Models\\Birdpoop.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BlackBet.asset",
+      "output": "Models\\BlackBet.glb",
+      "vertices": 24,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BlackConfetti.asset",
+      "output": "Models\\BlackConfetti.glb",
+      "vertices": 4,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Blobfish.asset",
+      "output": "Models\\Blobfish.glb",
+      "vertices": 1961,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BlobfishDrip.asset",
+      "output": "Models\\BlobfishDrip.glb",
+      "vertices": 2990,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bluegill.asset",
+      "output": "Models\\Bluegill.glb",
+      "vertices": 1081,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BluegillDrip.asset",
+      "output": "Models\\BluegillDrip.glb",
+      "vertices": 1107,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BlueShark.asset",
+      "output": "Models\\BlueShark.glb",
+      "vertices": 968,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Boat.001.asset",
+      "output": "Models\\Boat.001.glb",
+      "vertices": 191,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Boat.asset",
+      "output": "Models\\Boat.glb",
+      "vertices": 191,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Boat2.asset",
+      "output": "Models\\Boat2.glb",
+      "vertices": 7750,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BoatKey.asset",
+      "output": "Models\\BoatKey.glb",
+      "vertices": 598,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BoatMask.asset",
+      "output": "Models\\BoatMask.glb",
+      "vertices": 38,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BoatRadar.asset",
+      "output": "Models\\BoatRadar.glb",
+      "vertices": 643,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BoatShop.asset",
+      "output": "Models\\BoatShop.glb",
+      "vertices": 4189,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BowheadWhale.asset",
+      "output": "Models\\BowheadWhale.glb",
+      "vertices": 6195,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bowl.asset",
+      "output": "Models\\Bowl.glb",
+      "vertices": 572,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BowlAndFish.asset",
+      "output": "Models\\BowlAndFish.glb",
+      "vertices": 1628,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BowlAndFishDrip.asset",
+      "output": "Models\\BowlAndFishDrip.glb",
+      "vertices": 1628,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BowlDrip.asset",
+      "output": "Models\\BowlDrip.glb",
+      "vertices": 572,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bowlfish.asset",
+      "output": "Models\\Bowlfish.glb",
+      "vertices": 1056,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BrassKnuckles.asset",
+      "output": "Models\\BrassKnuckles.glb",
+      "vertices": 824,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BrownCrab.asset",
+      "output": "Models\\BrownCrab.glb",
+      "vertices": 4300,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BrownCrabDrip.asset",
+      "output": "Models\\BrownCrabDrip.glb",
+      "vertices": 4084,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Bucket.asset",
+      "output": "Models\\Bucket.glb",
+      "vertices": 4520,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\BucketHat.asset",
+      "output": "Models\\BucketHat.glb",
+      "vertices": 539,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Buildings.asset",
+      "output": "Models\\Buildings.glb",
+      "vertices": 51141,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Buildings_0.asset",
+      "output": "Models\\Buildings_0.glb",
+      "vertices": 52006,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\BuildingsNoBevel.asset",
+      "output": "Models\\BuildingsNoBevel.glb",
+      "vertices": 1226,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Carrot.asset",
+      "output": "Models\\Carrot.glb",
+      "vertices": 236,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Casino.asset",
+      "output": "Models\\Casino.glb",
+      "vertices": 23192,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\CasinoBase.asset",
+      "output": "Models\\CasinoBase.glb",
+      "vertices": 9659,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\CasinoClothes.asset",
+      "output": "Models\\CasinoClothes.glb",
+      "vertices": 3196,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CasinoGlass.asset",
+      "output": "Models\\CasinoGlass.glb",
+      "vertices": 176,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CasinoHair1.asset",
+      "output": "Models\\CasinoHair1.glb",
+      "vertices": 348,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CasinoHair2.asset",
+      "output": "Models\\CasinoHair2.glb",
+      "vertices": 1435,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Catfish.asset",
+      "output": "Models\\Catfish.glb",
+      "vertices": 1668,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CatfishDrip.asset",
+      "output": "Models\\CatfishDrip.glb",
+      "vertices": 1791,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Character.asset",
+      "output": "Models\\Character.glb",
+      "vertices": 4104,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CharacterHead.asset",
+      "output": "Models\\CharacterHead.glb",
+      "vertices": 1634,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Circle.asset",
+      "output": "Models\\Circle.glb",
+      "vertices": 3701,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Circle_0.asset",
+      "output": "Models\\Circle_0.glb",
+      "vertices": 985,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Circle_1.asset",
+      "output": "Models\\Circle_1.glb",
+      "vertices": 42,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Clam.asset",
+      "output": "Models\\Clam.glb",
+      "vertices": 230,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Clownfish.asset",
+      "output": "Models\\Clownfish.glb",
+      "vertices": 1055,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ClownfishDrip.asset",
+      "output": "Models\\ClownfishDrip.glb",
+      "vertices": 1360,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Coconut.asset",
+      "output": "Models\\Coconut.glb",
+      "vertices": 288,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Coconut_0.asset",
+      "output": "Models\\Coconut_0.glb",
+      "vertices": 560,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Cod.asset",
+      "output": "Models\\Cod.glb",
+      "vertices": 1163,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CodDrip.asset",
+      "output": "Models\\CodDrip.glb",
+      "vertices": 1739,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2.glb",
+      "vertices": 4686,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2_0.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2_0.glb",
+      "vertices": 6248,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2_1.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2_1.glb",
+      "vertices": 23239,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2_2.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2_2.glb",
+      "vertices": 19693,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2_3.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2_3.glb",
+      "vertices": 60697,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 2_4.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 2_4.glb",
+      "vertices": 12656,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 3.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 3.glb",
+      "vertices": 23087,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 3_0.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 3_0.glb",
+      "vertices": 30763,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 3_1.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 3_1.glb",
+      "vertices": 63722,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 4.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 4.glb",
+      "vertices": 120,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 4_0.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 4_0.glb",
+      "vertices": 17633,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 4_1.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 4_1.glb",
+      "vertices": 60200,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 5.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 5.glb",
+      "vertices": 30426,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene) 6.asset",
+      "output": "Models\\Combined Mesh (root_ scene) 6.glb",
+      "vertices": 56712,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene).asset",
+      "output": "Models\\Combined Mesh (root_ scene).glb",
+      "vertices": 56332,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene)_0.asset",
+      "output": "Models\\Combined Mesh (root_ scene)_0.glb",
+      "vertices": 29773,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene)_1.asset",
+      "output": "Models\\Combined Mesh (root_ scene)_1.glb",
+      "vertices": 63517,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene)_2.asset",
+      "output": "Models\\Combined Mesh (root_ scene)_2.glb",
+      "vertices": 50285,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene)_3.asset",
+      "output": "Models\\Combined Mesh (root_ scene)_3.glb",
+      "vertices": 4246,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Combined Mesh (root_ scene)_4.asset",
+      "output": "Models\\Combined Mesh (root_ scene)_4.glb",
+      "vertices": 15957,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CrabFishingRod.asset",
+      "output": "Models\\CrabFishingRod.glb",
+      "vertices": 1890,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\CrabMeat.asset",
+      "output": "Models\\CrabMeat.glb",
+      "vertices": 195,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Cube.001.asset",
+      "output": "Models\\Cube.001.glb",
+      "vertices": 48,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Cube.asset",
+      "output": "Models\\Cube.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Cube_0.asset",
+      "output": "Models\\Cube_0.glb",
+      "vertices": 96,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Cube_1.asset",
+      "output": "Models\\Cube_1.glb",
+      "vertices": 24,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Cube_2.asset",
+      "output": "Models\\Cube_2.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Cube_3.asset",
+      "output": "Models\\Cube_3.glb",
+      "vertices": 84,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Cube_4.asset",
+      "output": "Models\\Cube_4.glb",
+      "vertices": 192,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Disc.asset",
+      "output": "Models\\Disc.glb",
+      "vertices": 570,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Docks.asset",
+      "output": "Models\\Docks.glb",
+      "vertices": 6926,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\DripFish.asset",
+      "output": "Models\\DripFish.glb",
+      "vertices": 653,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\DripFishDrip.asset",
+      "output": "Models\\DripFishDrip.glb",
+      "vertices": 966,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\DripFishDripFull.asset",
+      "output": "Models\\DripFishDripFull.glb",
+      "vertices": 3964,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\DripFishFull.asset",
+      "output": "Models\\DripFishFull.glb",
+      "vertices": 3651,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Dust.asset",
+      "output": "Models\\Dust.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Dynamite.asset",
+      "output": "Models\\Dynamite.glb",
+      "vertices": 2140,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Eel.asset",
+      "output": "Models\\Eel.glb",
+      "vertices": 800,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\EelDrip.asset",
+      "output": "Models\\EelDrip.glb",
+      "vertices": 800,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\EmptyBeerCan.asset",
+      "output": "Models\\EmptyBeerCan.glb",
+      "vertices": 1072,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\ExplosionSphere.asset",
+      "output": "Models\\ExplosionSphere.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\FaceMask.asset",
+      "output": "Models\\FaceMask.glb",
+      "vertices": 398,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FakeWater.asset",
+      "output": "Models\\FakeWater.glb",
+      "vertices": 4,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FakeWater_0.asset",
+      "output": "Models\\FakeWater_0.glb",
+      "vertices": 4,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FakeWater_1.asset",
+      "output": "Models\\FakeWater_1.glb",
+      "vertices": 4,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FakeWater_2.asset",
+      "output": "Models\\FakeWater_2.glb",
+      "vertices": 4,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FakeWater_3.asset",
+      "output": "Models\\FakeWater_3.glb",
+      "vertices": 4,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FastGlasses.asset",
+      "output": "Models\\FastGlasses.glb",
+      "vertices": 356,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Fern.asset",
+      "output": "Models\\Fern.glb",
+      "vertices": 260,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FernBake.asset",
+      "output": "Models\\FernBake.glb",
+      "vertices": 1050,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FinishInteractable.asset",
+      "output": "Models\\FinishInteractable.glb",
+      "vertices": 524,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FishingClothes1.asset",
+      "output": "Models\\FishingClothes1.glb",
+      "vertices": 2774,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FishingRod.asset",
+      "output": "Models\\FishingRod.glb",
+      "vertices": 2460,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Flag.asset",
+      "output": "Models\\Flag.glb",
+      "vertices": 358,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Fly.asset",
+      "output": "Models\\Fly.glb",
+      "vertices": 132,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\FlyingFish.asset",
+      "output": "Models\\FlyingFish.glb",
+      "vertices": 882,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FlyingFishDrip.asset",
+      "output": "Models\\FlyingFishDrip.glb",
+      "vertices": 1285,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\FootSnail.asset",
+      "output": "Models\\FootSnail.glb",
+      "vertices": 888,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Forklift.asset",
+      "output": "Models\\Forklift.glb",
+      "vertices": 31963,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Fry.asset",
+      "output": "Models\\Fry.glb",
+      "vertices": 48,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Gammelgäddan.asset",
+      "output": "Models\\Gammelgäddan.glb",
+      "vertices": 1643,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Gar.asset",
+      "output": "Models\\Gar.glb",
+      "vertices": 1217,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GarDrip.asset",
+      "output": "Models\\GarDrip.glb",
+      "vertices": 3541,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GiantPiranha.asset",
+      "output": "Models\\GiantPiranha.glb",
+      "vertices": 2131,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GiantPiranhaSkeleton.asset",
+      "output": "Models\\GiantPiranhaSkeleton.glb",
+      "vertices": 2379,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GoblinShark.asset",
+      "output": "Models\\GoblinShark.glb",
+      "vertices": 4375,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Goby.asset",
+      "output": "Models\\Goby.glb",
+      "vertices": 783,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GobyDrip.asset",
+      "output": "Models\\GobyDrip.glb",
+      "vertices": 783,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Goldfish.asset",
+      "output": "Models\\Goldfish.glb",
+      "vertices": 1056,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GoldfishDrip.asset",
+      "output": "Models\\GoldfishDrip.glb",
+      "vertices": 1040,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Grass.asset",
+      "output": "Models\\Grass.glb",
+      "vertices": 112,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Green.asset",
+      "output": "Models\\Green.glb",
+      "vertices": 399,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\GreenBet.asset",
+      "output": "Models\\GreenBet.glb",
+      "vertices": 28,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GreenConfetti.asset",
+      "output": "Models\\GreenConfetti.glb",
+      "vertices": 4,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Grill2.asset",
+      "output": "Models\\Grill2.glb",
+      "vertices": 1424,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Grillmaster.asset",
+      "output": "Models\\Grillmaster.glb",
+      "vertices": 4469,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GrillmasterHat.asset",
+      "output": "Models\\GrillmasterHat.glb",
+      "vertices": 263,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\GrillRoof.asset",
+      "output": "Models\\GrillRoof.glb",
+      "vertices": 1505,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\GunShop.asset",
+      "output": "Models\\GunShop.glb",
+      "vertices": 18175,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\GunShopDocks.asset",
+      "output": "Models\\GunShopDocks.glb",
+      "vertices": 8912,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\GunShopGlass.asset",
+      "output": "Models\\GunShopGlass.glb",
+      "vertices": 64,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Halibut.asset",
+      "output": "Models\\Halibut.glb",
+      "vertices": 670,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HalibutDrip.asset",
+      "output": "Models\\HalibutDrip.glb",
+      "vertices": 2110,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Ham.asset",
+      "output": "Models\\Ham.glb",
+      "vertices": 136,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Hands.001.asset",
+      "output": "Models\\Hands.001.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands.001_0.asset",
+      "output": "Models\\Hands.001_0.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands.001_1.asset",
+      "output": "Models\\Hands.001_1.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands.001_2.asset",
+      "output": "Models\\Hands.001_2.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands.asset",
+      "output": "Models\\Hands.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands_0.asset",
+      "output": "Models\\Hands_0.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands_1.asset",
+      "output": "Models\\Hands_1.glb",
+      "vertices": 2203,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands_2.asset",
+      "output": "Models\\Hands_2.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hands_3.asset",
+      "output": "Models\\Hands_3.glb",
+      "vertices": 2178,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HollowPointLarge.asset",
+      "output": "Models\\HollowPointLarge.glb",
+      "vertices": 192,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HollowPointMedium.asset",
+      "output": "Models\\HollowPointMedium.glb",
+      "vertices": 192,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HollowPointSmall.asset",
+      "output": "Models\\HollowPointSmall.glb",
+      "vertices": 128,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Homemade Lure.asset",
+      "output": "Models\\Homemade Lure.glb",
+      "vertices": 446,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Hoop.asset",
+      "output": "Models\\Hoop.glb",
+      "vertices": 364,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HoopNet.asset",
+      "output": "Models\\HoopNet.glb",
+      "vertices": 704,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Horse.asset",
+      "output": "Models\\Horse.glb",
+      "vertices": 1516,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HorseDrip.asset",
+      "output": "Models\\HorseDrip.glb",
+      "vertices": 1919,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HotDot.asset",
+      "output": "Models\\HotDot.glb",
+      "vertices": 108,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HunterBeret.asset",
+      "output": "Models\\HunterBeret.glb",
+      "vertices": 446,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\HunterClothes.asset",
+      "output": "Models\\HunterClothes.glb",
+      "vertices": 2918,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\IceCreamShop.asset",
+      "output": "Models\\IceCreamShop.glb",
+      "vertices": 6630,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Icosphere.asset",
+      "output": "Models\\Icosphere.glb",
+      "vertices": 2632,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Icosphere_0.asset",
+      "output": "Models\\Icosphere_0.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Icosphere_1.asset",
+      "output": "Models\\Icosphere_1.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Icosphere_2.asset",
+      "output": "Models\\Icosphere_2.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Icosphere_3.asset",
+      "output": "Models\\Icosphere_3.glb",
+      "vertices": 240,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island.asset",
+      "output": "Models\\Island.glb",
+      "vertices": 5191,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island1.asset",
+      "output": "Models\\Island1.glb",
+      "vertices": 5672,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island1Source.asset",
+      "output": "Models\\Island1Source.glb",
+      "vertices": 18338,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island2.asset",
+      "output": "Models\\Island2.glb",
+      "vertices": 920,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island2Source.asset",
+      "output": "Models\\Island2Source.glb",
+      "vertices": 2467,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island3.asset",
+      "output": "Models\\Island3.glb",
+      "vertices": 5064,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island3Old.asset",
+      "output": "Models\\Island3Old.glb",
+      "vertices": 475,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island3Source.asset",
+      "output": "Models\\Island3Source.glb",
+      "vertices": 10132,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island3Source_0.asset",
+      "output": "Models\\Island3Source_0.glb",
+      "vertices": 10651,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island4Beach.asset",
+      "output": "Models\\Island4Beach.glb",
+      "vertices": 3139,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island4BeachSource.asset",
+      "output": "Models\\Island4BeachSource.glb",
+      "vertices": 8283,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island4Docks.asset",
+      "output": "Models\\Island4Docks.glb",
+      "vertices": 31355,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island4Grass.asset",
+      "output": "Models\\Island4Grass.glb",
+      "vertices": 973,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island4GrassSource.asset",
+      "output": "Models\\Island4GrassSource.glb",
+      "vertices": 12162,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island4Planks.asset",
+      "output": "Models\\Island4Planks.glb",
+      "vertices": 384,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island4Rocks.asset",
+      "output": "Models\\Island4Rocks.glb",
+      "vertices": 8970,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Island4RocksSource.asset",
+      "output": "Models\\Island4RocksSource.glb",
+      "vertices": 22544,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island4Source.asset",
+      "output": "Models\\Island4Source.glb",
+      "vertices": 6432,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island5.asset",
+      "output": "Models\\Island5.glb",
+      "vertices": 111376,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island5Source.asset",
+      "output": "Models\\Island5Source.glb",
+      "vertices": 17989,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Island5SourceBackup.asset",
+      "output": "Models\\Island5SourceBackup.glb",
+      "vertices": 59930,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Knife.asset",
+      "output": "Models\\Knife.glb",
+      "vertices": 2225,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Lava.asset",
+      "output": "Models\\Lava.glb",
+      "vertices": 141,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LavaBall.asset",
+      "output": "Models\\LavaBall.glb",
+      "vertices": 236,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\LavaPool.asset",
+      "output": "Models\\LavaPool.glb",
+      "vertices": 173,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\LavaRunning.asset",
+      "output": "Models\\LavaRunning.glb",
+      "vertices": 23022,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LavaRunningBool.asset",
+      "output": "Models\\LavaRunningBool.glb",
+      "vertices": 22767,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LavaSmoke.asset",
+      "output": "Models\\LavaSmoke.glb",
+      "vertices": 60,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\LavaSource.asset",
+      "output": "Models\\LavaSource.glb",
+      "vertices": 277,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Leech.asset",
+      "output": "Models\\Leech.glb",
+      "vertices": 328,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LeechBait.asset",
+      "output": "Models\\LeechBait.glb",
+      "vertices": 988,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\LeftHand.asset",
+      "output": "Models\\LeftHand.glb",
+      "vertices": 1089,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LifeVest.asset",
+      "output": "Models\\LifeVest.glb",
+      "vertices": 4148,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Lighter.asset",
+      "output": "Models\\Lighter.glb",
+      "vertices": 1135,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Lighthouse.asset",
+      "output": "Models\\Lighthouse.glb",
+      "vertices": 9645,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\LighthouseHat.asset",
+      "output": "Models\\LighthouseHat.glb",
+      "vertices": 466,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LighthouseKeeper.asset",
+      "output": "Models\\LighthouseKeeper.glb",
+      "vertices": 3104,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Lobster.asset",
+      "output": "Models\\Lobster.glb",
+      "vertices": 3959,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\LobsterDrip.asset",
+      "output": "Models\\LobsterDrip.glb",
+      "vertices": 3992,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Mackerel.asset",
+      "output": "Models\\Mackerel.glb",
+      "vertices": 774,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MackerelShiny.asset",
+      "output": "Models\\MackerelShiny.glb",
+      "vertices": 918,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Map.asset",
+      "output": "Models\\Map.glb",
+      "vertices": 172,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MeatChunk.asset",
+      "output": "Models\\MeatChunk.glb",
+      "vertices": 214,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryBoat.asset",
+      "output": "Models\\MilitaryBoat.glb",
+      "vertices": 14873,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryBoatMask.asset",
+      "output": "Models\\MilitaryBoatMask.glb",
+      "vertices": 21,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryBoatNoMovables.asset",
+      "output": "Models\\MilitaryBoatNoMovables.glb",
+      "vertices": 12156,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryBox.asset",
+      "output": "Models\\MilitaryBox.glb",
+      "vertices": 3840,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryBox2.asset",
+      "output": "Models\\MilitaryBox2.glb",
+      "vertices": 3072,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryClothes.asset",
+      "output": "Models\\MilitaryClothes.glb",
+      "vertices": 3145,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MilitaryHelmet.asset",
+      "output": "Models\\MilitaryHelmet.glb",
+      "vertices": 1327,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MotorHolder.asset",
+      "output": "Models\\MotorHolder.glb",
+      "vertices": 112,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Mustasche.asset",
+      "output": "Models\\Mustasche.glb",
+      "vertices": 50,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\MutatedBowheadWhale.asset",
+      "output": "Models\\MutatedBowheadWhale.glb",
+      "vertices": 8420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\MuttonBeard.asset",
+      "output": "Models\\MuttonBeard.glb",
+      "vertices": 236,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\NameText.asset",
+      "output": "Models\\NameText.glb",
+      "vertices": 1289,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Needlefish.asset",
+      "output": "Models\\Needlefish.glb",
+      "vertices": 258,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\NeedlefishDrip.asset",
+      "output": "Models\\NeedlefishDrip.glb",
+      "vertices": 383,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\NPCBucket.asset",
+      "output": "Models\\NPCBucket.glb",
+      "vertices": 4520,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\NPCEmptyBeerCan.asset",
+      "output": "Models\\NPCEmptyBeerCan.glb",
+      "vertices": 1072,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Oarfish.asset",
+      "output": "Models\\Oarfish.glb",
+      "vertices": 1113,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\OarfishDrip.asset",
+      "output": "Models\\OarfishDrip.glb",
+      "vertices": 1006,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\OldStairs.asset",
+      "output": "Models\\OldStairs.glb",
+      "vertices": 11843,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\OldVest.asset",
+      "output": "Models\\OldVest.glb",
+      "vertices": 2841,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Palm.asset",
+      "output": "Models\\Palm.glb",
+      "vertices": 656,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmBent1.asset",
+      "output": "Models\\PalmBent1.glb",
+      "vertices": 691,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmBent2.asset",
+      "output": "Models\\PalmBent2.glb",
+      "vertices": 688,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmBent3.asset",
+      "output": "Models\\PalmBent3.glb",
+      "vertices": 698,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmCurve.asset",
+      "output": "Models\\PalmCurve.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmCurveBent1.asset",
+      "output": "Models\\PalmCurveBent1.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmCurveBent2.asset",
+      "output": "Models\\PalmCurveBent2.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmCurveBent3.asset",
+      "output": "Models\\PalmCurveBent3.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PalmLeafs.asset",
+      "output": "Models\\PalmLeafs.glb",
+      "vertices": 1106,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ParkourTestingSource.001.asset",
+      "output": "Models\\ParkourTestingSource.001.glb",
+      "vertices": 18222,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ParkourTestingSourceBackup.asset",
+      "output": "Models\\ParkourTestingSourceBackup.glb",
+      "vertices": 21410,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ParkourTestingSourceBackup2.asset",
+      "output": "Models\\ParkourTestingSourceBackup2.glb",
+      "vertices": 22001,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Parrotfish.asset",
+      "output": "Models\\Parrotfish.glb",
+      "vertices": 2058,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ParrotfishDrip.asset",
+      "output": "Models\\ParrotfishDrip.glb",
+      "vertices": 1920,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Path.asset",
+      "output": "Models\\Path.glb",
+      "vertices": 334,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PathCurve.asset",
+      "output": "Models\\PathCurve.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Perch.asset",
+      "output": "Models\\Perch.glb",
+      "vertices": 1671,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PerchDrip.asset",
+      "output": "Models\\PerchDrip.glb",
+      "vertices": 1710,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Piercing.asset",
+      "output": "Models\\Piercing.glb",
+      "vertices": 128,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Pike.asset",
+      "output": "Models\\Pike.glb",
+      "vertices": 1004,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PikeDrip.asset",
+      "output": "Models\\PikeDrip.glb",
+      "vertices": 1873,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTree.001.asset",
+      "output": "Models\\PineTree.001.glb",
+      "vertices": 141,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTree.002.asset",
+      "output": "Models\\PineTree.002.glb",
+      "vertices": 153,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTree.asset",
+      "output": "Models\\PineTree.glb",
+      "vertices": 149,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeCurve.001.asset",
+      "output": "Models\\PineTreeCurve.001.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeCurve.002.asset",
+      "output": "Models\\PineTreeCurve.002.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeCurve.asset",
+      "output": "Models\\PineTreeCurve.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeLeafs.001.asset",
+      "output": "Models\\PineTreeLeafs.001.glb",
+      "vertices": 5321,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeLeafs.002.asset",
+      "output": "Models\\PineTreeLeafs.002.glb",
+      "vertices": 5289,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeLeafs.asset",
+      "output": "Models\\PineTreeLeafs.glb",
+      "vertices": 5320,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeSmall.asset",
+      "output": "Models\\PineTreeSmall.glb",
+      "vertices": 442,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeSmallBake.asset",
+      "output": "Models\\PineTreeSmallBake.glb",
+      "vertices": 1152,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PineTreeSmallOld.asset",
+      "output": "Models\\PineTreeSmallOld.glb",
+      "vertices": 231,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Piranha.asset",
+      "output": "Models\\Piranha.glb",
+      "vertices": 2130,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PiranhaDrip.asset",
+      "output": "Models\\PiranhaDrip.glb",
+      "vertices": 2130,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Pistol.asset",
+      "output": "Models\\Pistol.glb",
+      "vertices": 3018,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolCompensator.asset",
+      "output": "Models\\PistolCompensator.glb",
+      "vertices": 850,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolCompensatorOld.asset",
+      "output": "Models\\PistolCompensatorOld.glb",
+      "vertices": 528,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolLaser.asset",
+      "output": "Models\\PistolLaser.glb",
+      "vertices": 794,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolMag.asset",
+      "output": "Models\\PistolMag.glb",
+      "vertices": 234,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolRedDot.asset",
+      "output": "Models\\PistolRedDot.glb",
+      "vertices": 620,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolScope.asset",
+      "output": "Models\\PistolScope.glb",
+      "vertices": 1937,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PistolSupressor.asset",
+      "output": "Models\\PistolSupressor.glb",
+      "vertices": 526,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Plank.asset",
+      "output": "Models\\Plank.glb",
+      "vertices": 2960,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PlankCurve.asset",
+      "output": "Models\\PlankCurve.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Professional Lure.asset",
+      "output": "Models\\Professional Lure.glb",
+      "vertices": 1085,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Pufferfish.asset",
+      "output": "Models\\Pufferfish.glb",
+      "vertices": 2334,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\PufferfishFin.asset",
+      "output": "Models\\PufferfishFin.glb",
+      "vertices": 331,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Quality Lure.asset",
+      "output": "Models\\Quality Lure.glb",
+      "vertices": 501,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Radio.asset",
+      "output": "Models\\Radio.glb",
+      "vertices": 2853,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RadioStick.asset",
+      "output": "Models\\RadioStick.glb",
+      "vertices": 24,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RedBet.asset",
+      "output": "Models\\RedBet.glb",
+      "vertices": 28,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RedConfetti.asset",
+      "output": "Models\\RedConfetti.glb",
+      "vertices": 4,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\RedSnapper.asset",
+      "output": "Models\\RedSnapper.glb",
+      "vertices": 1395,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RedSnapperDrip.asset",
+      "output": "Models\\RedSnapperDrip.glb",
+      "vertices": 1397,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RightHand.asset",
+      "output": "Models\\RightHand.glb",
+      "vertices": 1089,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Rock2.asset",
+      "output": "Models\\Rock2.glb",
+      "vertices": 253,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Rock3.asset",
+      "output": "Models\\Rock3.glb",
+      "vertices": 278,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Rock4.asset",
+      "output": "Models\\Rock4.glb",
+      "vertices": 201,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Rock5.asset",
+      "output": "Models\\Rock5.glb",
+      "vertices": 345,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\RockBeach1.asset",
+      "output": "Models\\RockBeach1.glb",
+      "vertices": 253,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockBeach2.asset",
+      "output": "Models\\RockBeach2.glb",
+      "vertices": 278,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockBeach3.asset",
+      "output": "Models\\RockBeach3.glb",
+      "vertices": 345,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockBeach4.asset",
+      "output": "Models\\RockBeach4.glb",
+      "vertices": 201,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockCrab.asset",
+      "output": "Models\\RockCrab.glb",
+      "vertices": 4327,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockCrabDrip.asset",
+      "output": "Models\\RockCrabDrip.glb",
+      "vertices": 4099,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Rocks.asset",
+      "output": "Models\\Rocks.glb",
+      "vertices": 3327,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RockSource.asset",
+      "output": "Models\\RockSource.glb",
+      "vertices": 452,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RocksSource.asset",
+      "output": "Models\\RocksSource.glb",
+      "vertices": 3753,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RoofBackup.asset",
+      "output": "Models\\RoofBackup.glb",
+      "vertices": 3419,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\RottenShrimp.asset",
+      "output": "Models\\RottenShrimp.glb",
+      "vertices": 971,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Sailor.asset",
+      "output": "Models\\Sailor.glb",
+      "vertices": 3222,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SailorHat.asset",
+      "output": "Models\\SailorHat.glb",
+      "vertices": 406,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Salmon.asset",
+      "output": "Models\\Salmon.glb",
+      "vertices": 1088,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SalmonDrip.asset",
+      "output": "Models\\SalmonDrip.glb",
+      "vertices": 1987,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Satchel.asset",
+      "output": "Models\\Satchel.glb",
+      "vertices": 786,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Scientific Lure.asset",
+      "output": "Models\\Scientific Lure.glb",
+      "vertices": 414,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ScientistClothes.asset",
+      "output": "Models\\ScientistClothes.glb",
+      "vertices": 3204,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ScientistHair.asset",
+      "output": "Models\\ScientistHair.glb",
+      "vertices": 1354,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Seagull.asset",
+      "output": "Models\\Seagull.glb",
+      "vertices": 736,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SeagullOld.asset",
+      "output": "Models\\SeagullOld.glb",
+      "vertices": 1292,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SeaUrchin.asset",
+      "output": "Models\\SeaUrchin.glb",
+      "vertices": 1379,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SeaUrchinDrip.asset",
+      "output": "Models\\SeaUrchinDrip.glb",
+      "vertices": 1380,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Sengarat.asset",
+      "output": "Models\\Sengarat.glb",
+      "vertices": 985,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SengaratDrip.asset",
+      "output": "Models\\SengaratDrip.glb",
+      "vertices": 2351,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShoeL.asset",
+      "output": "Models\\ShoeL.glb",
+      "vertices": 1499,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShoeR.asset",
+      "output": "Models\\ShoeR.glb",
+      "vertices": 1499,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Shop.asset",
+      "output": "Models\\Shop.glb",
+      "vertices": 21703,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\ShopDocks.asset",
+      "output": "Models\\ShopDocks.glb",
+      "vertices": 11298,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShopGlass.asset",
+      "output": "Models\\ShopGlass.glb",
+      "vertices": 128,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Shopkeeper.asset",
+      "output": "Models\\Shopkeeper.glb",
+      "vertices": 3310,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShopkeeperHat.asset",
+      "output": "Models\\ShopkeeperHat.glb",
+      "vertices": 773,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShopSign.asset",
+      "output": "Models\\ShopSign.glb",
+      "vertices": 231,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Shotgun.asset",
+      "output": "Models\\Shotgun.glb",
+      "vertices": 3394,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShotgunCompensator.asset",
+      "output": "Models\\ShotgunCompensator.glb",
+      "vertices": 988,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShotgunLaser.asset",
+      "output": "Models\\ShotgunLaser.glb",
+      "vertices": 918,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShotgunRedDot.asset",
+      "output": "Models\\ShotgunRedDot.glb",
+      "vertices": 726,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShotgunScope.asset",
+      "output": "Models\\ShotgunScope.glb",
+      "vertices": 1987,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShotgunSuppressor.asset",
+      "output": "Models\\ShotgunSuppressor.glb",
+      "vertices": 2034,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Shrimp.asset",
+      "output": "Models\\Shrimp.glb",
+      "vertices": 930,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\ShrimpDrip.asset",
+      "output": "Models\\ShrimpDrip.glb",
+      "vertices": 930,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SingleUseLighter.asset",
+      "output": "Models\\SingleUseLighter.glb",
+      "vertices": 1136,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\SkySphere.asset",
+      "output": "Models\\SkySphere.glb",
+      "vertices": 71,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SliceOfBice.asset",
+      "output": "Models\\SliceOfBice.glb",
+      "vertices": 10947,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\SliceOfBiceMask.asset",
+      "output": "Models\\SliceOfBiceMask.glb",
+      "vertices": 79,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SliceOfBiceNoMovables.asset",
+      "output": "Models\\SliceOfBiceNoMovables.glb",
+      "vertices": 7544,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SliceOfBiceWindow.asset",
+      "output": "Models\\SliceOfBiceWindow.glb",
+      "vertices": 80,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SliceOfBiceWindow_0.asset",
+      "output": "Models\\SliceOfBiceWindow_0.glb",
+      "vertices": 80,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SlotMachine.asset",
+      "output": "Models\\SlotMachine.glb",
+      "vertices": 6245,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SlotMachineBeach.asset",
+      "output": "Models\\SlotMachineBeach.glb",
+      "vertices": 6245,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SlotMachineCasino.asset",
+      "output": "Models\\SlotMachineCasino.glb",
+      "vertices": 6241,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SlotMachineMilitary.asset",
+      "output": "Models\\SlotMachineMilitary.glb",
+      "vertices": 6248,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SmallMotor.asset",
+      "output": "Models\\SmallMotor.glb",
+      "vertices": 1413,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SmallPropeller.asset",
+      "output": "Models\\SmallPropeller.glb",
+      "vertices": 253,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMG.asset",
+      "output": "Models\\SMG.glb",
+      "vertices": 3232,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGCompensator.asset",
+      "output": "Models\\SMGCompensator.glb",
+      "vertices": 531,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGLaser.asset",
+      "output": "Models\\SMGLaser.glb",
+      "vertices": 741,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGMag.asset",
+      "output": "Models\\SMGMag.glb",
+      "vertices": 242,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGRedDot.asset",
+      "output": "Models\\SMGRedDot.glb",
+      "vertices": 712,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGScope.asset",
+      "output": "Models\\SMGScope.glb",
+      "vertices": 1975,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SMGSuppressor.asset",
+      "output": "Models\\SMGSuppressor.glb",
+      "vertices": 1050,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperIronSights.asset",
+      "output": "Models\\SniperIronSights.glb",
+      "vertices": 916,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperLaser.asset",
+      "output": "Models\\SniperLaser.glb",
+      "vertices": 716,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperMag.asset",
+      "output": "Models\\SniperMag.glb",
+      "vertices": 310,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperRedDot.asset",
+      "output": "Models\\SniperRedDot.glb",
+      "vertices": 669,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Sniperrifle.asset",
+      "output": "Models\\Sniperrifle.glb",
+      "vertices": 6634,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperrifleCompensator.asset",
+      "output": "Models\\SniperrifleCompensator.glb",
+      "vertices": 282,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperrifleDefaultBarrel.asset",
+      "output": "Models\\SniperrifleDefaultBarrel.glb",
+      "vertices": 128,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperScope.asset",
+      "output": "Models\\SniperScope.glb",
+      "vertices": 1971,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SniperSuppressor.asset",
+      "output": "Models\\SniperSuppressor.glb",
+      "vertices": 1053,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Snowball1.asset",
+      "output": "Models\\Snowball1.glb",
+      "vertices": 240,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Snowball2.asset",
+      "output": "Models\\Snowball2.glb",
+      "vertices": 240,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Snowball3.asset",
+      "output": "Models\\Snowball3.glb",
+      "vertices": 240,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Soap.asset",
+      "output": "Models\\Soap.glb",
+      "vertices": 96,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SpiderCrab_v4.asset",
+      "output": "Models\\SpiderCrab_v4.glb",
+      "vertices": 7363,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SpidercrabShell.asset",
+      "output": "Models\\SpidercrabShell.glb",
+      "vertices": 1682,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Spike.asset",
+      "output": "Models\\Spike.glb",
+      "vertices": 120,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Standard Lure.asset",
+      "output": "Models\\Standard Lure.glb",
+      "vertices": 453,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Stars.asset",
+      "output": "Models\\Stars.glb",
+      "vertices": 130,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Steering.asset",
+      "output": "Models\\Steering.glb",
+      "vertices": 344,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Stonefish.asset",
+      "output": "Models\\Stonefish.glb",
+      "vertices": 2058,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\StonefishDrip.asset",
+      "output": "Models\\StonefishDrip.glb",
+      "vertices": 927,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\StoreClercClothes.asset",
+      "output": "Models\\StoreClercClothes.glb",
+      "vertices": 3008,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\StoreClercHair.asset",
+      "output": "Models\\StoreClercHair.glb",
+      "vertices": 2186,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Strawhat.asset",
+      "output": "Models\\Strawhat.glb",
+      "vertices": 625,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SummerClothes.asset",
+      "output": "Models\\SummerClothes.glb",
+      "vertices": 2889,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Sunfish.asset",
+      "output": "Models\\Sunfish.glb",
+      "vertices": 2583,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SuperdwarfFish.asset",
+      "output": "Models\\SuperdwarfFish.glb",
+      "vertices": 195,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SuperdwarfFishDrip.asset",
+      "output": "Models\\SuperdwarfFishDrip.glb",
+      "vertices": 195,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SupressorOld.asset",
+      "output": "Models\\SupressorOld.glb",
+      "vertices": 0,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Suspenders.asset",
+      "output": "Models\\Suspenders.glb",
+      "vertices": 3114,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\SwampHouse.asset",
+      "output": "Models\\SwampHouse.glb",
+      "vertices": 9319,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Table.asset",
+      "output": "Models\\Table.glb",
+      "vertices": 1536,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Tent.asset",
+      "output": "Models\\Tent.glb",
+      "vertices": 2518,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TextSource.asset",
+      "output": "Models\\TextSource.glb",
+      "vertices": 259,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Throttle.asset",
+      "output": "Models\\Throttle.glb",
+      "vertices": 270,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Tigerfish.asset",
+      "output": "Models\\Tigerfish.glb",
+      "vertices": 2431,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TigerfishDrip.asset",
+      "output": "Models\\TigerfishDrip.glb",
+      "vertices": 2409,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TitanTriggerFish.asset",
+      "output": "Models\\TitanTriggerFish.glb",
+      "vertices": 1229,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TitanTriggerFishDrip.asset",
+      "output": "Models\\TitanTriggerFishDrip.glb",
+      "vertices": 2125,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TransparentObjects.asset",
+      "output": "Models\\TransparentObjects.glb",
+      "vertices": 44,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TransparentObjects_0.asset",
+      "output": "Models\\TransparentObjects_0.glb",
+      "vertices": 44,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\TreeShop.asset",
+      "output": "Models\\TreeShop.glb",
+      "vertices": 144,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\Tuna.asset",
+      "output": "Models\\Tuna.glb",
+      "vertices": 2619,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain.001.asset",
+      "output": "Models\\UnderWaterTerrain.001.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain.asset",
+      "output": "Models\\UnderWaterTerrain.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain_0.asset",
+      "output": "Models\\UnderWaterTerrain_0.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain_1.asset",
+      "output": "Models\\UnderWaterTerrain_1.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain_2.asset",
+      "output": "Models\\UnderWaterTerrain_2.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain_3.asset",
+      "output": "Models\\UnderWaterTerrain_3.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\UnderWaterTerrain_4.asset",
+      "output": "Models\\UnderWaterTerrain_4.glb",
+      "vertices": 420,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\USB.asset",
+      "output": "Models\\USB.glb",
+      "vertices": 324,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\VoxelFish.asset",
+      "output": "Models\\VoxelFish.glb",
+      "vertices": 1217,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\VoxelFishDrip.asset",
+      "output": "Models\\VoxelFishDrip.glb",
+      "vertices": 1217,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Water2.asset",
+      "output": "Models\\Water2.glb",
+      "vertices": 4309,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\WaterSplash.asset",
+      "output": "Models\\WaterSplash.glb",
+      "vertices": 72,
+      "materials_assigned": false
+    },
+    {
+      "source": "Mesh\\WhaleFin.asset",
+      "output": "Models\\WhaleFin.glb",
+      "vertices": 770,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\Wheel.asset",
+      "output": "Models\\Wheel.glb",
+      "vertices": 2045,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\WheelMilitary.asset",
+      "output": "Models\\WheelMilitary.glb",
+      "vertices": 2045,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\WomanHat.001.asset",
+      "output": "Models\\WomanHat.001.glb",
+      "vertices": 929,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\YellowBoxfish.asset",
+      "output": "Models\\YellowBoxfish.glb",
+      "vertices": 1040,
+      "materials_assigned": true
+    },
+    {
+      "source": "Mesh\\YellowBoxfishDrip.asset",
+      "output": "Models\\YellowBoxfishDrip.glb",
+      "vertices": 422,
+      "materials_assigned": true
+    }
+  ],
+  "prefabs": [
+    {
+      "source": "Resources\\items\\creatures\\Angelfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Angelfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Anglerfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Anglerfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Bass.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Bass.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\BingBong.prefab",
+      "output": "Prefabs\\Resources__items__creatures__BingBong.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Blobfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Blobfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Bluegill.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Bluegill.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Albatross.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Albatross.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 3
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Blue Shark.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Blue Shark.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Bowhead Whale.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Bowhead Whale.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Giant Piranha.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Giant Piranha.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Goblin Shark.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Goblin Shark.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Mutated Bowhead Whale.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Mutated Bowhead Whale.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Pufferfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Pufferfish.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Spidercrab.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Spidercrab.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Sunfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Sunfish.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\The Old Pike.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__The Old Pike.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\bosses\\Tuna.prefab",
+      "output": "Prefabs\\Resources__items__creatures__bosses__Tuna.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Bowlfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Bowlfish.glb",
+      "meshes": 3,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\BrownCrab.prefab",
+      "output": "Prefabs\\Resources__items__creatures__BrownCrab.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 4
+    },
+    {
+      "source": "Resources\\items\\creatures\\Catfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Catfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Clam.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Clam.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Clownfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Clownfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Cod.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Cod.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Dripper.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Dripper.glb",
+      "meshes": 4,
+      "skins": 0,
+      "animations": 2
+    },
+    {
+      "source": "Resources\\items\\creatures\\Eel.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Eel.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Flying Fish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Flying Fish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\FootSnail.prefab",
+      "output": "Prefabs\\Resources__items__creatures__FootSnail.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Gar.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Gar.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Goby.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Goby.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Goldfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Goldfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Halibut.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Halibut.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Leech.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Leech.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Lobster.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Lobster.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 4
+    },
+    {
+      "source": "Resources\\items\\creatures\\Mackerel.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Mackerel.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Needlefish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Needlefish.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Oarfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Oarfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Parrotfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Parrotfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Perch.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Perch.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Pike.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Pike.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Piranha.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Piranha.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Red Snapper.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Red Snapper.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\RockCrab.prefab",
+      "output": "Prefabs\\Resources__items__creatures__RockCrab.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 4
+    },
+    {
+      "source": "Resources\\items\\creatures\\Salmon.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Salmon.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Sea Urchin.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Sea Urchin.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Seagull.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Seagull.glb",
+      "meshes": 3,
+      "skins": 1,
+      "animations": 3
+    },
+    {
+      "source": "Resources\\items\\creatures\\Seahorse.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Seahorse.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Sengarat.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Sengarat.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Shrimp.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Shrimp.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Stonefish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Stonefish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Superdwarf Fish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Superdwarf Fish.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Tigerfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Tigerfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Triggerfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Triggerfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Voxel Fish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Voxel Fish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\creatures\\Yellow Boxfish.prefab",
+      "output": "Prefabs\\Resources__items__creatures__Yellow Boxfish.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\meat\\AlbatrossMeat.prefab",
+      "output": "Prefabs\\Resources__items__meat__AlbatrossMeat.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\meat\\CrabMeat.prefab",
+      "output": "Prefabs\\Resources__items__meat__CrabMeat.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\meat\\PiranhaMeat.prefab",
+      "output": "Prefabs\\Resources__items__meat__PiranhaMeat.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\meat\\PufferfishMeat.prefab",
+      "output": "Prefabs\\Resources__items__meat__PufferfishMeat.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\meat\\WhaleMeat.prefab",
+      "output": "Prefabs\\Resources__items__meat__WhaleMeat.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\other\\DeadPlayer.prefab",
+      "output": "Prefabs\\Resources__items__other__DeadPlayer.glb",
+      "meshes": 7,
+      "skins": 4,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Assault Rifle.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Assault Rifle.glb",
+      "meshes": 16,
+      "skins": 2,
+      "animations": 5
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Badball.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Badball.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Beer.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Beer.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Brass Knuckles.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Brass Knuckles.glb",
+      "meshes": 3,
+      "skins": 2,
+      "animations": 2
+    },
+    {
+      "source": "Resources\\items\\purchasable\\BrassKnucklesPackedBackup.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__BrassKnucklesPackedBackup.glb",
+      "meshes": 3,
+      "skins": 2,
+      "animations": 2
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Crab Fishing Rod.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Crab Fishing Rod.glb",
+      "meshes": 3,
+      "skins": 2,
+      "animations": 3
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Disc.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Disc.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Dynamite.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Dynamite.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Fishing Rod.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Fishing Rod.glb",
+      "meshes": 3,
+      "skins": 2,
+      "animations": 1
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Knife.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Knife.glb",
+      "meshes": 2,
+      "skins": 2,
+      "animations": 2
+    },
+    {
+      "source": "Resources\\items\\purchasable\\KnifePackedBackup.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__KnifePackedBackup.glb",
+      "meshes": 3,
+      "skins": 2,
+      "animations": 2
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Map.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Map.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Pistol.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Pistol.glb",
+      "meshes": 14,
+      "skins": 2,
+      "animations": 6
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Radio.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Radio.glb",
+      "meshes": 2,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Shotgun.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Shotgun.glb",
+      "meshes": 12,
+      "skins": 2,
+      "animations": 6
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Smg.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Smg.glb",
+      "meshes": 12,
+      "skins": 2,
+      "animations": 6
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Sniper Rifle.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Sniper Rifle.glb",
+      "meshes": 16,
+      "skins": 6,
+      "animations": 6
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Snowball1.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Snowball1.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Snowball2.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Snowball2.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\purchasable\\Snowball3.prefab",
+      "output": "Prefabs\\Resources__items__purchasable__Snowball3.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\trophies\\Albatross Head.prefab",
+      "output": "Prefabs\\Resources__items__trophies__Albatross Head.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\trophies\\GiantPiranhaSkeleton.prefab",
+      "output": "Prefabs\\Resources__items__trophies__GiantPiranhaSkeleton.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\trophies\\Pufferfish Fin.prefab",
+      "output": "Prefabs\\Resources__items__trophies__Pufferfish Fin.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\trophies\\Spidercrab Shell.prefab",
+      "output": "Prefabs\\Resources__items__trophies__Spidercrab Shell.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\items\\trophies\\Whale Fin.prefab",
+      "output": "Prefabs\\Resources__items__trophies__Whale Fin.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\Default NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__Default NPC.glb",
+      "meshes": 4,
+      "skins": 4,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island1\\Lighthouse NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island1__Lighthouse NPC.glb",
+      "meshes": 6,
+      "skins": 6,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island2\\Swamp Daughter NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island2__Swamp Daughter NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island2\\Swamp NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island2__Swamp NPC.glb",
+      "meshes": 6,
+      "skins": 6,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island3\\Grillmaster NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island3__Grillmaster NPC.glb",
+      "meshes": 6,
+      "skins": 6,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island3\\Kiosk NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island3__Kiosk NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island3\\Pufferfish NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island3__Pufferfish NPC.glb",
+      "meshes": 6,
+      "skins": 6,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island4\\Roulette NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island4__Roulette NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island4\\Seagull NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island4__Seagull NPC.glb",
+      "meshes": 4,
+      "skins": 4,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island4\\Slots NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island4__Slots NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island4\\StoreClerc NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island4__StoreClerc NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island4\\WeaponSeller NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island4__WeaponSeller NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island5\\Military NPC 2.prefab",
+      "output": "Prefabs\\Resources__npcs__island5__Military NPC 2.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island5\\Military NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island5__Military NPC.glb",
+      "meshes": 5,
+      "skins": 5,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\npcs\\island5\\Whale NPC.prefab",
+      "output": "Prefabs\\Resources__npcs__island5__Whale NPC.glb",
+      "meshes": 6,
+      "skins": 6,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\Boat.prefab",
+      "output": "Prefabs\\Resources__other__Boat.glb",
+      "meshes": 26,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\HandLeft.prefab",
+      "output": "Prefabs\\Resources__other__HandLeft.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\HandRight.prefab",
+      "output": "Prefabs\\Resources__other__HandRight.glb",
+      "meshes": 1,
+      "skins": 1,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\HitMarker.prefab",
+      "output": "Prefabs\\Resources__other__HitMarker.glb",
+      "meshes": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\PlayerHolder.prefab",
+      "output": "Prefabs\\Resources__other__PlayerHolder.glb",
+      "meshes": 7,
+      "skins": 4,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\PlayerHolderBackup.prefab",
+      "output": "Prefabs\\Resources__other__PlayerHolderBackup.glb",
+      "meshes": 6,
+      "skins": 3,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\SceneManager.prefab",
+      "output": "Prefabs\\Resources__other__SceneManager.glb",
+      "meshes": 89,
+      "skins": 40,
+      "animations": 0
+    },
+    {
+      "source": "Resources\\other\\SlotMachine.prefab",
+      "output": "Prefabs\\Resources__other__SlotMachine.glb",
+      "meshes": 7,
+      "skins": 0,
+      "animations": 0
+    }
+  ],
+  "animations": [
+    {
+      "source": "AnimationClip\\CrabIdle.anim",
+      "output": "Animations\\CrabIdle.glb",
+      "channels": 13,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\CrabWalk.anim",
+      "output": "Animations\\CrabWalk.glb",
+      "channels": 13,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\DeadPlayerSlap.anim",
+      "output": "Animations\\DeadPlayerSlap.glb",
+      "channels": 2,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Diving.anim",
+      "output": "Animations\\Diving.glb",
+      "channels": 24,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\DivingAlbatross.anim",
+      "output": "Animations\\DivingAlbatross.glb",
+      "channels": 32,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\DripIdle.anim",
+      "output": "Animations\\DripIdle.glb",
+      "channels": 3,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\DripWalk.anim",
+      "output": "Animations\\DripWalk.glb",
+      "channels": 3,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Fire.anim",
+      "output": "Animations\\Fire.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\FireLast.anim",
+      "output": "Animations\\FireLast.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\FireLast_0.anim",
+      "output": "Animations\\FireLast_0.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\FireLast_1.anim",
+      "output": "Animations\\FireLast_1.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\FireLast_2.anim",
+      "output": "Animations\\FireLast_2.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Fire_0.anim",
+      "output": "Animations\\Fire_0.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Fire_1.anim",
+      "output": "Animations\\Fire_1.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Fire_2.anim",
+      "output": "Animations\\Fire_2.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Fire_3.anim",
+      "output": "Animations\\Fire_3.glb",
+      "channels": 111,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Flapping.anim",
+      "output": "Animations\\Flapping.glb",
+      "channels": 24,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\FlappingAlbatross.anim",
+      "output": "Animations\\FlappingAlbatross.glb",
+      "channels": 32,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle.anim",
+      "output": "Animations\\Idle.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_0.anim",
+      "output": "Animations\\Idle_0.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_1.anim",
+      "output": "Animations\\Idle_1.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_2.anim",
+      "output": "Animations\\Idle_2.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_3.anim",
+      "output": "Animations\\Idle_3.glb",
+      "channels": 99,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_4.anim",
+      "output": "Animations\\Idle_4.glb",
+      "channels": 102,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Idle_5.anim",
+      "output": "Animations\\Idle_5.glb",
+      "channels": 111,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect.anim",
+      "output": "Animations\\Inspect.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_0.anim",
+      "output": "Animations\\Inspect_0.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_1.anim",
+      "output": "Animations\\Inspect_1.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_2.anim",
+      "output": "Animations\\Inspect_2.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_3.anim",
+      "output": "Animations\\Inspect_3.glb",
+      "channels": 99,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_4.anim",
+      "output": "Animations\\Inspect_4.glb",
+      "channels": 102,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Inspect_5.anim",
+      "output": "Animations\\Inspect_5.glb",
+      "channels": 111,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\LobsterIdle.anim",
+      "output": "Animations\\LobsterIdle.glb",
+      "channels": 15,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\LobsterWalk.anim",
+      "output": "Animations\\LobsterWalk.glb",
+      "channels": 15,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\PullBackRod.anim",
+      "output": "Animations\\PullBackRod.glb",
+      "channels": 86,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\PullBackRod_0.anim",
+      "output": "Animations\\PullBackRod_0.glb",
+      "channels": 112,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReelInn.anim",
+      "output": "Animations\\ReelInn.glb",
+      "channels": 112,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReelOutt.anim",
+      "output": "Animations\\ReelOutt.glb",
+      "channels": 112,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Reload.anim",
+      "output": "Animations\\Reload.glb",
+      "channels": 111,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReloadLast.anim",
+      "output": "Animations\\ReloadLast.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReloadLast_0.anim",
+      "output": "Animations\\ReloadLast_0.glb",
+      "channels": 111,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReloadLast_1.anim",
+      "output": "Animations\\ReloadLast_1.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReloadLast_2.anim",
+      "output": "Animations\\ReloadLast_2.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\ReloadLast_3.anim",
+      "output": "Animations\\ReloadLast_3.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Reload_0.anim",
+      "output": "Animations\\Reload_0.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Reload_1.anim",
+      "output": "Animations\\Reload_1.glb",
+      "channels": 115,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Reload_2.anim",
+      "output": "Animations\\Reload_2.glb",
+      "channels": 116,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Reload_3.anim",
+      "output": "Animations\\Reload_3.glb",
+      "channels": 119,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\Searching.anim",
+      "output": "Animations\\Searching.glb",
+      "channels": 24,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    },
+    {
+      "source": "AnimationClip\\SearchingAlbatross.anim",
+      "output": "Animations\\SearchingAlbatross.glb",
+      "channels": 32,
+      "note": "Standalone transform hierarchy; use matching Prefabs for bound skeletal animations."
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Unity custom shaders are approximated by Blender/glTF PBR materials; original parameters are retained.",
+    "Standalone animation files preserve transform channels on an empty hierarchy; this does not automatically bind them to every character.",
+    "Blend shapes, animation events and non-transform property curves remain in original Unity sources, not glTF."
+  ]
+}

@@ -1,0 +1,1386 @@
+[
+  {
+    "source": "Cubemap\\BeachIsland3.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\BeachIsland3.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\BeachIsland4.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\BeachIsland4.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\BoatShed.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\BoatShed.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Casino.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Casino.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\DockIsland4.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\DockIsland4.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\DocksIsland1.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\DocksIsland1.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\EndCredits.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\EndCredits.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\GrassIsland4.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\GrassIsland4.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\GunShop.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\GunShop.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Lava.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Lava.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Level2Bright.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Level2Bright.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Level2Dark.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Level2Dark.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\PalmAreaIsland3.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\PalmAreaIsland3.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\ReflectionProbe-0.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\ReflectionProbe-0.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\RockIsland1.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\RockIsland1.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\RockIsland4.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\RockIsland4.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Shop.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Shop.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Sky.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Sky.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Volcano.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Volcano.png",
+    "ok": true
+  },
+  {
+    "source": "Cubemap\\Water.png",
+    "width": 128,
+    "height": 768,
+    "output": "Textures\\Cubemap\\Water.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Japanese\\JP_NotoSans Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\Japanese\\JP_NotoSans Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Japanese\\JP_NotoSans Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\Japanese\\JP_NotoSans Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Korean\\NotoSansKR Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\Korean\\NotoSansKR Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Korean\\NotoSansKR Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\Korean\\NotoSansKR Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Latin\\Underdog-Regular Atlas.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Other\\Fonts\\Latin\\Underdog-Regular Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\Latin\\Underdog-Regular Atlas_0.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Other\\Fonts\\Latin\\Underdog-Regular Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\SC\\NotoSansSC-VariableFont_wght Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\SC\\NotoSansSC-VariableFont_wght Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\SC\\NotoSansSC-VariableFont_wght Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\SC\\NotoSansSC-VariableFont_wght Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\SC2\\ZCOOLKuaiLe-Regular Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\SC2\\ZCOOLKuaiLe-Regular Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\SC2\\ZCOOLKuaiLe-Regular Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\SC2\\ZCOOLKuaiLe-Regular Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\TC\\NotoSansTC-VariableFont_wght Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\TC\\NotoSansTC-VariableFont_wght Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Other\\Fonts\\TC\\NotoSansTC-VariableFont_wght Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Other\\Fonts\\TC\\NotoSansTC-VariableFont_wght Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_0.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_1.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_1.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_2.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_2.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_3.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_3.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_4.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_4.png",
+    "ok": true
+  },
+  {
+    "source": "Resources\\fonts & materials\\LiberationSans SDF Atlas_5.png",
+    "width": 1024,
+    "height": 1024,
+    "output": "Textures\\Resources\\fonts & materials\\LiberationSans SDF Atlas_5.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-2_comp_dir.texture2D",
+    "width": 512,
+    "height": 512,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-2_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\DevIsland\\Lightmap-2_comp_light.texture2D",
+    "width": 512,
+    "height": 512,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\DevIsland\\Lightmap-2_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-2_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-2_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island1\\Lightmap-2_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island1\\Lightmap-2_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island2\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island2\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island2\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island2\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island2\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island2\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island2\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island2\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island3\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island3\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island3\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island3\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island3\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island3\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island3\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island3\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-10_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-10_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-10_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-10_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-2_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-2_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-2_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-2_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-3_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-3_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-3_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-3_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-4_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-4_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-4_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-4_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-5_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-5_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-5_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-5_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-6_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-6_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-6_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-6_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-7_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-7_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-7_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-7_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-8_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-8_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-8_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-8_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-9_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-9_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island4\\Lightmap-9_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island4\\Lightmap-9_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-0_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-0_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-0_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-0_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-1_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-1_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-1_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-1_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-2_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-2_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-2_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-2_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-3_comp_dir.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 25,
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-3_comp_dir.png",
+    "ok": true
+  },
+  {
+    "source": "Scenes\\Islands\\Island5\\Lightmap-3_comp_light.texture2D",
+    "width": 1024,
+    "height": 1024,
+    "unity_format": 24,
+    "note": "8-bit PNG preview of HDR BC6H lightmap; full original Unity texture is retained.",
+    "output": "Textures\\Scenes\\Islands\\Island5\\Lightmap-3_comp_light.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\AreaTex.png",
+    "width": 160,
+    "height": 560,
+    "output": "Textures\\Texture2D\\AreaTex.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Arrow.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Arrow.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\BayerMatrix.png",
+    "width": 4,
+    "height": 4,
+    "output": "Textures\\Texture2D\\BayerMatrix.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\BlackWhiteNoise.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\BlackWhiteNoise.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Blood1.png",
+    "width": 32,
+    "height": 32,
+    "output": "Textures\\Texture2D\\Blood1.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Blood2.png",
+    "width": 32,
+    "height": 32,
+    "output": "Textures\\Texture2D\\Blood2.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Blood3.png",
+    "width": 32,
+    "height": 32,
+    "output": "Textures\\Texture2D\\Blood3.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\BloodParticle.png",
+    "width": 8,
+    "height": 8,
+    "output": "Textures\\Texture2D\\BloodParticle.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\BulletHole2.png",
+    "width": 8,
+    "height": 8,
+    "output": "Textures\\Texture2D\\BulletHole2.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Circle.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Circle.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Colors.png",
+    "width": 32,
+    "height": 32,
+    "output": "Textures\\Texture2D\\Colors.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\ColorsSprite.png",
+    "width": 32,
+    "height": 32,
+    "output": "Textures\\Texture2D\\ColorsSprite.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\ControllerSpriteAtlas.png",
+    "width": 2048,
+    "height": 1024,
+    "output": "Textures\\Texture2D\\ControllerSpriteAtlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Cross.png",
+    "width": 7,
+    "height": 7,
+    "output": "Textures\\Texture2D\\Cross.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\DebugFont.png",
+    "width": 256,
+    "height": 128,
+    "output": "Textures\\Texture2D\\DebugFont.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\DefaultNormal.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\DefaultNormal.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Discord.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Discord.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Dot.png",
+    "width": 8,
+    "height": 8,
+    "output": "Textures\\Texture2D\\Dot.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\DustParticle.png",
+    "width": 8,
+    "height": 8,
+    "output": "Textures\\Texture2D\\DustParticle.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\EdgeUI.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\EdgeUI.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\EdgeUIOutline.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\EdgeUIOutline.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\EmojiOne.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\EmojiOne.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Fire.png",
+    "width": 960,
+    "height": 960,
+    "output": "Textures\\Texture2D\\Fire.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Food.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Food.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\GrassPixel16.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\GrassPixel16.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Heart.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Heart.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Hitmarker2.png",
+    "width": 128,
+    "height": 128,
+    "output": "Textures\\Texture2D\\Hitmarker2.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Hunger.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Hunger.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\JP_NotoSans Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\JP_NotoSans Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\JP_NotoSans Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\JP_NotoSans Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Large01.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Large01.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Large02.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Large02.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_0.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_0_0.png",
+    "width": 64,
+    "height": 64,
+    "output": "Textures\\Texture2D\\LDR_LLL1_0_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_1.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_1.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_10.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_10.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_11.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_11.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_12.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_12.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_13.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_13.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_14.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_14.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_15.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_15.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_16.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_16.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_17.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_17.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_18.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_18.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_19.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_19.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_2.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_2.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_20.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_20.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_21.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_21.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_22.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_22.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_23.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_23.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_24.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_24.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_25.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_25.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_26.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_26.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_27.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_27.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_28.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_28.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_29.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_29.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_3.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_3.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_30.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_30.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_31.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_31.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_4.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_4.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_5.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_5.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_6.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_6.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_7.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_7.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_8.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_8.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\LDR_LLL1_9.png",
+    "width": 16,
+    "height": 16,
+    "output": "Textures\\Texture2D\\LDR_LLL1_9.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium01.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium01.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium02.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium02.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium03.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium03.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium04.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium04.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium05.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium05.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Medium06.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Medium06.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Money.png",
+    "width": 18,
+    "height": 11,
+    "output": "Textures\\Texture2D\\Money.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Notification.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Notification.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansKR Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansKR Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansKR Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansKR Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansSC-VariableFont_wght Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansSC-VariableFont_wght Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansSC-VariableFont_wght Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansSC-VariableFont_wght Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansTC-VariableFont_wght Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansTC-VariableFont_wght Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\NotoSansTC-VariableFont_wght Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\NotoSansTC-VariableFont_wght Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Pixel.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\Pixel.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\ScopeMask.png",
+    "width": 2048,
+    "height": 2048,
+    "output": "Textures\\Texture2D\\ScopeMask.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\SearchTex.png",
+    "width": 64,
+    "height": 16,
+    "output": "Textures\\Texture2D\\SearchTex.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Skull.png",
+    "width": 960,
+    "height": 960,
+    "output": "Textures\\Texture2D\\Skull.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Steam.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Steam.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Thin01.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Thin01.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Thin02.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Thin02.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Ui.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Ui.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UICheckMark.png",
+    "width": 11,
+    "height": 11,
+    "output": "Textures\\Texture2D\\UICheckMark.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UICircle.png",
+    "width": 128,
+    "height": 128,
+    "output": "Textures\\Texture2D\\UICircle.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UICircle_outline.png",
+    "width": 128,
+    "height": 128,
+    "output": "Textures\\Texture2D\\UICircle_outline.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UIElement8px.png",
+    "width": 8,
+    "height": 8,
+    "output": "Textures\\Texture2D\\UIElement8px.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UIFoldoutClosed.png",
+    "width": 11,
+    "height": 11,
+    "output": "Textures\\Texture2D\\UIFoldoutClosed.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\UIFoldoutOpened.png",
+    "width": 11,
+    "height": 11,
+    "output": "Textures\\Texture2D\\UIFoldoutOpened.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Ui_outline.png",
+    "width": 512,
+    "height": 512,
+    "output": "Textures\\Texture2D\\Ui_outline.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Underdog-Regular Atlas.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\Underdog-Regular Atlas.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Underdog-Regular Atlas_0.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\Underdog-Regular Atlas_0.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\Volume.png",
+    "width": 256,
+    "height": 256,
+    "output": "Textures\\Texture2D\\Volume.png",
+    "ok": true
+  },
+  {
+    "source": "Texture2D\\White1px.png",
+    "width": 1,
+    "height": 1,
+    "output": "Textures\\Texture2D\\White1px.png",
+    "ok": true
+  }
+]
