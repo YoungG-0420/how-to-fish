@@ -1,6 +1,6 @@
 [
   {
-    "file": "Animations\\CrabIdle.glb",
+    "file": "Animations/CrabIdle.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -8,7 +8,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\CrabWalk.glb",
+    "file": "Animations/CrabWalk.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -16,7 +16,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\DeadPlayerSlap.glb",
+    "file": "Animations/DeadPlayerSlap.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -24,7 +24,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Diving.glb",
+    "file": "Animations/Diving.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -32,7 +32,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\DivingAlbatross.glb",
+    "file": "Animations/DivingAlbatross.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -40,7 +40,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\DripIdle.glb",
+    "file": "Animations/DripIdle.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -48,7 +48,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\DripWalk.glb",
+    "file": "Animations/DripWalk.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -56,7 +56,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Fire.glb",
+    "file": "Animations/Fire.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -64,7 +64,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Fire_0.glb",
+    "file": "Animations/Fire_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -72,7 +72,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Fire_1.glb",
+    "file": "Animations/Fire_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -80,7 +80,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Fire_2.glb",
+    "file": "Animations/Fire_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -88,7 +88,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Fire_3.glb",
+    "file": "Animations/Fire_3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -96,7 +96,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\FireLast.glb",
+    "file": "Animations/FireLast.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -104,7 +104,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\FireLast_0.glb",
+    "file": "Animations/FireLast_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -112,7 +112,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\FireLast_1.glb",
+    "file": "Animations/FireLast_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -120,7 +120,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\FireLast_2.glb",
+    "file": "Animations/FireLast_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -128,7 +128,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Flapping.glb",
+    "file": "Animations/Flapping.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -136,7 +136,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\FlappingAlbatross.glb",
+    "file": "Animations/FlappingAlbatross.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -144,7 +144,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle.glb",
+    "file": "Animations/Idle.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -152,7 +152,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_0.glb",
+    "file": "Animations/Idle_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -160,7 +160,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_1.glb",
+    "file": "Animations/Idle_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -168,7 +168,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_2.glb",
+    "file": "Animations/Idle_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -176,7 +176,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_3.glb",
+    "file": "Animations/Idle_3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -184,7 +184,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_4.glb",
+    "file": "Animations/Idle_4.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -192,7 +192,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Idle_5.glb",
+    "file": "Animations/Idle_5.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -200,7 +200,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect.glb",
+    "file": "Animations/Inspect.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -208,7 +208,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_0.glb",
+    "file": "Animations/Inspect_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -216,7 +216,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_1.glb",
+    "file": "Animations/Inspect_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -224,7 +224,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_2.glb",
+    "file": "Animations/Inspect_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -232,7 +232,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_3.glb",
+    "file": "Animations/Inspect_3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -240,7 +240,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_4.glb",
+    "file": "Animations/Inspect_4.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -248,7 +248,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Inspect_5.glb",
+    "file": "Animations/Inspect_5.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -256,7 +256,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\LobsterIdle.glb",
+    "file": "Animations/LobsterIdle.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -264,7 +264,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\LobsterWalk.glb",
+    "file": "Animations/LobsterWalk.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -272,7 +272,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\PullBackRod.glb",
+    "file": "Animations/PullBackRod.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -280,7 +280,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\PullBackRod_0.glb",
+    "file": "Animations/PullBackRod_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -288,7 +288,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReelInn.glb",
+    "file": "Animations/ReelInn.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -296,7 +296,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReelOutt.glb",
+    "file": "Animations/ReelOutt.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -304,7 +304,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Reload.glb",
+    "file": "Animations/Reload.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -312,7 +312,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Reload_0.glb",
+    "file": "Animations/Reload_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -320,7 +320,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Reload_1.glb",
+    "file": "Animations/Reload_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -328,7 +328,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Reload_2.glb",
+    "file": "Animations/Reload_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -336,7 +336,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Reload_3.glb",
+    "file": "Animations/Reload_3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -344,7 +344,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReloadLast.glb",
+    "file": "Animations/ReloadLast.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -352,7 +352,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReloadLast_0.glb",
+    "file": "Animations/ReloadLast_0.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -360,7 +360,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReloadLast_1.glb",
+    "file": "Animations/ReloadLast_1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -368,7 +368,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReloadLast_2.glb",
+    "file": "Animations/ReloadLast_2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -376,7 +376,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\ReloadLast_3.glb",
+    "file": "Animations/ReloadLast_3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -384,7 +384,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\Searching.glb",
+    "file": "Animations/Searching.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -392,7 +392,7 @@
     "actions": 1
   },
   {
-    "file": "Animations\\SearchingAlbatross.glb",
+    "file": "Animations/SearchingAlbatross.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -400,7 +400,7 @@
     "actions": 1
   },
   {
-    "file": "Materials\\MaterialLibrary.glb",
+    "file": "Materials/MaterialLibrary.glb",
     "ok": true,
     "meshes": 169,
     "armatures": 0,
@@ -408,7 +408,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Albatross.glb",
+    "file": "Models/03_鳥類/Albatross.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -416,7 +416,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AlbatrossHead.glb",
+    "file": "Models/03_鳥類/AlbatrossHead.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -424,7 +424,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Amateur Lure.glb",
+    "file": "Models/04_釣具與魚餌/Amateur Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -432,7 +432,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Angelfish.glb",
+    "file": "Models/02_魚類與海洋生物/Angelfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -440,7 +440,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AngelfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/AngelfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -448,7 +448,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Anglerfish.glb",
+    "file": "Models/02_魚類與海洋生物/Anglerfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -456,7 +456,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AnglerfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/AnglerfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -464,7 +464,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Anvil.glb",
+    "file": "Models/11_道具與食物/Anvil.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -472,7 +472,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Arm.glb",
+    "file": "Models/01_人物與服裝/Arm.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -480,7 +480,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ArmPuffs.glb",
+    "file": "Models/01_人物與服裝/ArmPuffs.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -488,7 +488,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AshesSphere.glb",
+    "file": "Models/09_海水天空與特效/AshesSphere.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -496,7 +496,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifle.glb",
+    "file": "Models/05_武器與配件/AssaultRifle.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -504,7 +504,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleCompensator.glb",
+    "file": "Models/05_武器與配件/AssaultRifleCompensator.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -512,7 +512,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleDefaultBarrel.glb",
+    "file": "Models/05_武器與配件/AssaultRifleDefaultBarrel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -520,7 +520,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleDefaultSight.glb",
+    "file": "Models/05_武器與配件/AssaultRifleDefaultSight.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -528,7 +528,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleLaser.glb",
+    "file": "Models/05_武器與配件/AssaultRifleLaser.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -536,7 +536,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleRedRot.glb",
+    "file": "Models/05_武器與配件/AssaultRifleRedRot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -544,7 +544,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleScope.glb",
+    "file": "Models/05_武器與配件/AssaultRifleScope.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -552,7 +552,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AssaultRifleSuppressor.glb",
+    "file": "Models/05_武器與配件/AssaultRifleSuppressor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -560,7 +560,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AttachmentBoxBarrel.glb",
+    "file": "Models/05_武器與配件/AttachmentBoxBarrel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -568,7 +568,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AttachmentBoxBullets.glb",
+    "file": "Models/05_武器與配件/AttachmentBoxBullets.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -576,7 +576,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AttachmentBoxHighFloor.glb",
+    "file": "Models/05_武器與配件/AttachmentBoxHighFloor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -584,7 +584,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\AttachmentBoxSight.glb",
+    "file": "Models/05_武器與配件/AttachmentBoxSight.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -592,7 +592,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Badball.glb",
+    "file": "Models/99_待辨識與空模型/Badball.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -600,7 +600,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BadClothes.glb",
+    "file": "Models/01_人物與服裝/BadClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -608,7 +608,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BadGlasses.glb",
+    "file": "Models/01_人物與服裝/BadGlasses.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -616,7 +616,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BadHat.glb",
+    "file": "Models/01_人物與服裝/BadHat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -624,7 +624,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Ball.glb",
+    "file": "Models/99_待辨識與空模型/Ball.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -632,7 +632,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bass.glb",
+    "file": "Models/02_魚類與海洋生物/Bass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -640,7 +640,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BassDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BassDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -648,7 +648,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BeachGrass.glb",
+    "file": "Models/07_植物/BeachGrass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -656,7 +656,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BeachPlant1.glb",
+    "file": "Models/07_植物/BeachPlant1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -664,7 +664,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BeachPlant2.glb",
+    "file": "Models/07_植物/BeachPlant2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -672,7 +672,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Beanie.glb",
+    "file": "Models/01_人物與服裝/Beanie.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -680,7 +680,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Beard.glb",
+    "file": "Models/01_人物與服裝/Beard.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -688,7 +688,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BeerCan.glb",
+    "file": "Models/11_道具與食物/BeerCan.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -696,7 +696,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bench2.glb",
+    "file": "Models/06_建築與設施/Bench2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -704,7 +704,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BenchSmall.glb",
+    "file": "Models/06_建築與設施/BenchSmall.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -712,7 +712,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BigMotor.glb",
+    "file": "Models/10_船隻與載具/BigMotor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -720,7 +720,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BigPropeller.glb",
+    "file": "Models/10_船隻與載具/BigPropeller.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -728,7 +728,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bikini.glb",
+    "file": "Models/01_人物與服裝/Bikini.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -736,7 +736,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BingBong.glb",
+    "file": "Models/02_魚類與海洋生物/BingBong.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -744,7 +744,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BingBongDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BingBongDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -752,7 +752,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Birdpoop.glb",
+    "file": "Models/09_海水天空與特效/Birdpoop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -760,7 +760,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BlackBet.glb",
+    "file": "Models/12_賭場與遊戲機/BlackBet.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -768,7 +768,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BlackConfetti.glb",
+    "file": "Models/09_海水天空與特效/BlackConfetti.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -776,7 +776,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Blobfish.glb",
+    "file": "Models/02_魚類與海洋生物/Blobfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -784,7 +784,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BlobfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BlobfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -792,7 +792,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bluegill.glb",
+    "file": "Models/02_魚類與海洋生物/Bluegill.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -800,7 +800,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BluegillDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BluegillDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -808,7 +808,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BlueShark.glb",
+    "file": "Models/02_魚類與海洋生物/BlueShark.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -816,7 +816,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Boat.001.glb",
+    "file": "Models/10_船隻與載具/Boat.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -824,7 +824,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Boat.glb",
+    "file": "Models/10_船隻與載具/Boat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -832,7 +832,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Boat2.glb",
+    "file": "Models/10_船隻與載具/Boat2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -840,7 +840,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BoatKey.glb",
+    "file": "Models/10_船隻與載具/BoatKey.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -848,7 +848,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BoatMask.glb",
+    "file": "Models/10_船隻與載具/BoatMask.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -856,7 +856,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BoatRadar.glb",
+    "file": "Models/10_船隻與載具/BoatRadar.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -864,7 +864,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BoatShop.glb",
+    "file": "Models/06_建築與設施/BoatShop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -872,7 +872,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BowheadWhale.glb",
+    "file": "Models/02_魚類與海洋生物/BowheadWhale.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -880,7 +880,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bowl.glb",
+    "file": "Models/02_魚類與海洋生物/Bowl.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -888,7 +888,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BowlAndFish.glb",
+    "file": "Models/02_魚類與海洋生物/BowlAndFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -896,7 +896,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BowlAndFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BowlAndFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -904,7 +904,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BowlDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BowlDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -912,7 +912,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bowlfish.glb",
+    "file": "Models/02_魚類與海洋生物/Bowlfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -920,7 +920,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BrassKnuckles.glb",
+    "file": "Models/05_武器與配件/BrassKnuckles.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -928,7 +928,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BrownCrab.glb",
+    "file": "Models/02_魚類與海洋生物/BrownCrab.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -936,7 +936,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BrownCrabDrip.glb",
+    "file": "Models/02_魚類與海洋生物/BrownCrabDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -944,7 +944,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Bucket.glb",
+    "file": "Models/11_道具與食物/Bucket.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -952,7 +952,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BucketHat.glb",
+    "file": "Models/01_人物與服裝/BucketHat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -960,7 +960,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Buildings.glb",
+    "file": "Models/06_建築與設施/Buildings.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -968,7 +968,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Buildings_0.glb",
+    "file": "Models/06_建築與設施/Buildings_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -976,7 +976,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\BuildingsNoBevel.glb",
+    "file": "Models/06_建築與設施/BuildingsNoBevel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -984,7 +984,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Carrot.glb",
+    "file": "Models/11_道具與食物/Carrot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -992,7 +992,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Casino.glb",
+    "file": "Models/12_賭場與遊戲機/Casino.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1000,7 +1000,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CasinoBase.glb",
+    "file": "Models/12_賭場與遊戲機/CasinoBase.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1008,7 +1008,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CasinoClothes.glb",
+    "file": "Models/01_人物與服裝/CasinoClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1016,7 +1016,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CasinoGlass.glb",
+    "file": "Models/12_賭場與遊戲機/CasinoGlass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1024,7 +1024,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CasinoHair1.glb",
+    "file": "Models/01_人物與服裝/CasinoHair1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1032,7 +1032,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CasinoHair2.glb",
+    "file": "Models/01_人物與服裝/CasinoHair2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1040,7 +1040,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Catfish.glb",
+    "file": "Models/02_魚類與海洋生物/Catfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1048,7 +1048,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CatfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/CatfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1056,7 +1056,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Character.glb",
+    "file": "Models/01_人物與服裝/Character.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1064,7 +1064,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CharacterHead.glb",
+    "file": "Models/01_人物與服裝/CharacterHead.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1072,7 +1072,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Circle.glb",
+    "file": "Models/99_待辨識與空模型/Circle.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1080,7 +1080,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Circle_0.glb",
+    "file": "Models/99_待辨識與空模型/Circle_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1088,7 +1088,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Circle_1.glb",
+    "file": "Models/99_待辨識與空模型/Circle_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1096,7 +1096,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Clam.glb",
+    "file": "Models/02_魚類與海洋生物/Clam.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1104,7 +1104,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Clownfish.glb",
+    "file": "Models/02_魚類與海洋生物/Clownfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1112,7 +1112,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ClownfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/ClownfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1120,7 +1120,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Coconut.glb",
+    "file": "Models/07_植物/Coconut.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1128,7 +1128,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Coconut_0.glb",
+    "file": "Models/07_植物/Coconut_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1136,7 +1136,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cod.glb",
+    "file": "Models/02_魚類與海洋生物/Cod.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1144,7 +1144,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CodDrip.glb",
+    "file": "Models/02_魚類與海洋生物/CodDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1152,7 +1152,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1160,7 +1160,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2_0.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1168,7 +1168,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2_1.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1176,7 +1176,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2_2.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1184,7 +1184,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2_3.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1192,7 +1192,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 2_4.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1200,7 +1200,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 3.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1208,7 +1208,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 3_0.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1216,7 +1216,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 3_1.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1224,7 +1224,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 4.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1232,7 +1232,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 4_0.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1240,7 +1240,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 4_1.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1248,7 +1248,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 5.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 5.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1256,7 +1256,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene) 6.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 6.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1264,7 +1264,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene).glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene).glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1272,7 +1272,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene)_0.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1280,7 +1280,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene)_1.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1288,7 +1288,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene)_2.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1296,7 +1296,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene)_3.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1304,7 +1304,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Combined Mesh (root_ scene)_4.glb",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1312,7 +1312,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CrabFishingRod.glb",
+    "file": "Models/04_釣具與魚餌/CrabFishingRod.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1320,7 +1320,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\CrabMeat.glb",
+    "file": "Models/11_道具與食物/CrabMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1328,7 +1328,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube.001.glb",
+    "file": "Models/99_待辨識與空模型/Cube.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1336,7 +1336,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube.glb",
+    "file": "Models/99_待辨識與空模型/Cube.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -1344,7 +1344,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube_0.glb",
+    "file": "Models/99_待辨識與空模型/Cube_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1352,7 +1352,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube_1.glb",
+    "file": "Models/99_待辨識與空模型/Cube_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1360,7 +1360,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube_2.glb",
+    "file": "Models/99_待辨識與空模型/Cube_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1368,7 +1368,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube_3.glb",
+    "file": "Models/99_待辨識與空模型/Cube_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1376,7 +1376,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Cube_4.glb",
+    "file": "Models/99_待辨識與空模型/Cube_4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1384,7 +1384,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Disc.glb",
+    "file": "Models/99_待辨識與空模型/Disc.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1392,7 +1392,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Docks.glb",
+    "file": "Models/06_建築與設施/Docks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1400,7 +1400,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\DripFish.glb",
+    "file": "Models/02_魚類與海洋生物/DripFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1408,7 +1408,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\DripFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/DripFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1416,7 +1416,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\DripFishDripFull.glb",
+    "file": "Models/02_魚類與海洋生物/DripFishDripFull.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1424,7 +1424,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\DripFishFull.glb",
+    "file": "Models/02_魚類與海洋生物/DripFishFull.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1432,7 +1432,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Dust.glb",
+    "file": "Models/09_海水天空與特效/Dust.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1440,7 +1440,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Dynamite.glb",
+    "file": "Models/05_武器與配件/Dynamite.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1448,7 +1448,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Eel.glb",
+    "file": "Models/02_魚類與海洋生物/Eel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1456,7 +1456,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\EelDrip.glb",
+    "file": "Models/02_魚類與海洋生物/EelDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1464,7 +1464,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\EmptyBeerCan.glb",
+    "file": "Models/11_道具與食物/EmptyBeerCan.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1472,7 +1472,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ExplosionSphere.glb",
+    "file": "Models/09_海水天空與特效/ExplosionSphere.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1480,7 +1480,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FaceMask.glb",
+    "file": "Models/01_人物與服裝/FaceMask.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1488,7 +1488,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FakeWater.glb",
+    "file": "Models/09_海水天空與特效/FakeWater.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1496,7 +1496,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FakeWater_0.glb",
+    "file": "Models/09_海水天空與特效/FakeWater_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1504,7 +1504,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FakeWater_1.glb",
+    "file": "Models/09_海水天空與特效/FakeWater_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1512,7 +1512,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FakeWater_2.glb",
+    "file": "Models/09_海水天空與特效/FakeWater_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1520,7 +1520,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FakeWater_3.glb",
+    "file": "Models/09_海水天空與特效/FakeWater_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1528,7 +1528,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FastGlasses.glb",
+    "file": "Models/01_人物與服裝/FastGlasses.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1536,7 +1536,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Fern.glb",
+    "file": "Models/07_植物/Fern.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1544,7 +1544,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FernBake.glb",
+    "file": "Models/07_植物/FernBake.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1552,7 +1552,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FinishInteractable.glb",
+    "file": "Models/99_待辨識與空模型/FinishInteractable.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1560,7 +1560,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FishingClothes1.glb",
+    "file": "Models/01_人物與服裝/FishingClothes1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1568,7 +1568,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FishingRod.glb",
+    "file": "Models/04_釣具與魚餌/FishingRod.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1576,7 +1576,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Flag.glb",
+    "file": "Models/11_道具與食物/Flag.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1584,7 +1584,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Fly.glb",
+    "file": "Models/11_道具與食物/Fly.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1592,7 +1592,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FlyingFish.glb",
+    "file": "Models/02_魚類與海洋生物/FlyingFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1600,7 +1600,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FlyingFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/FlyingFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1608,7 +1608,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\FootSnail.glb",
+    "file": "Models/02_魚類與海洋生物/FootSnail.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1616,7 +1616,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Forklift.glb",
+    "file": "Models/10_船隻與載具/Forklift.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1624,7 +1624,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Fry.glb",
+    "file": "Models/02_魚類與海洋生物/Fry.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1632,7 +1632,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Gammelgäddan.glb",
+    "file": "Models/02_魚類與海洋生物/Gammelgäddan.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1640,7 +1640,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Gar.glb",
+    "file": "Models/02_魚類與海洋生物/Gar.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1648,7 +1648,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GarDrip.glb",
+    "file": "Models/02_魚類與海洋生物/GarDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1656,7 +1656,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GiantPiranha.glb",
+    "file": "Models/02_魚類與海洋生物/GiantPiranha.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1664,7 +1664,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GiantPiranhaSkeleton.glb",
+    "file": "Models/02_魚類與海洋生物/GiantPiranhaSkeleton.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1672,7 +1672,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GoblinShark.glb",
+    "file": "Models/02_魚類與海洋生物/GoblinShark.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1680,7 +1680,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Goby.glb",
+    "file": "Models/02_魚類與海洋生物/Goby.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1688,7 +1688,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GobyDrip.glb",
+    "file": "Models/02_魚類與海洋生物/GobyDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1696,7 +1696,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Goldfish.glb",
+    "file": "Models/02_魚類與海洋生物/Goldfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1704,7 +1704,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GoldfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/GoldfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1712,7 +1712,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Grass.glb",
+    "file": "Models/07_植物/Grass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1720,7 +1720,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Green.glb",
+    "file": "Models/99_待辨識與空模型/Green.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1728,7 +1728,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GreenBet.glb",
+    "file": "Models/12_賭場與遊戲機/GreenBet.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1736,7 +1736,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GreenConfetti.glb",
+    "file": "Models/09_海水天空與特效/GreenConfetti.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1744,7 +1744,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Grill2.glb",
+    "file": "Models/06_建築與設施/Grill2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1752,7 +1752,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Grillmaster.glb",
+    "file": "Models/01_人物與服裝/Grillmaster.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1760,7 +1760,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GrillmasterHat.glb",
+    "file": "Models/01_人物與服裝/GrillmasterHat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1768,7 +1768,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GrillRoof.glb",
+    "file": "Models/06_建築與設施/GrillRoof.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1776,7 +1776,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GunShop.glb",
+    "file": "Models/06_建築與設施/GunShop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1784,7 +1784,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GunShopDocks.glb",
+    "file": "Models/06_建築與設施/GunShopDocks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1792,7 +1792,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\GunShopGlass.glb",
+    "file": "Models/06_建築與設施/GunShopGlass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1800,7 +1800,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Halibut.glb",
+    "file": "Models/02_魚類與海洋生物/Halibut.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1808,7 +1808,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HalibutDrip.glb",
+    "file": "Models/02_魚類與海洋生物/HalibutDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1816,7 +1816,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Ham.glb",
+    "file": "Models/11_道具與食物/Ham.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1824,7 +1824,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands.001.glb",
+    "file": "Models/01_人物與服裝/Hands.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1832,7 +1832,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands.001_0.glb",
+    "file": "Models/01_人物與服裝/Hands.001_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1840,7 +1840,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands.001_1.glb",
+    "file": "Models/01_人物與服裝/Hands.001_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1848,7 +1848,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands.001_2.glb",
+    "file": "Models/01_人物與服裝/Hands.001_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1856,7 +1856,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands.glb",
+    "file": "Models/01_人物與服裝/Hands.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1864,7 +1864,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands_0.glb",
+    "file": "Models/01_人物與服裝/Hands_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1872,7 +1872,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands_1.glb",
+    "file": "Models/01_人物與服裝/Hands_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1880,7 +1880,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands_2.glb",
+    "file": "Models/01_人物與服裝/Hands_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1888,7 +1888,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hands_3.glb",
+    "file": "Models/01_人物與服裝/Hands_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1896,7 +1896,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HollowPointLarge.glb",
+    "file": "Models/05_武器與配件/HollowPointLarge.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1904,7 +1904,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HollowPointMedium.glb",
+    "file": "Models/05_武器與配件/HollowPointMedium.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1912,7 +1912,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HollowPointSmall.glb",
+    "file": "Models/05_武器與配件/HollowPointSmall.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1920,7 +1920,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Homemade Lure.glb",
+    "file": "Models/04_釣具與魚餌/Homemade Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1928,7 +1928,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Hoop.glb",
+    "file": "Models/11_道具與食物/Hoop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1936,7 +1936,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HoopNet.glb",
+    "file": "Models/04_釣具與魚餌/HoopNet.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1944,7 +1944,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Horse.glb",
+    "file": "Models/02_魚類與海洋生物/Horse.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1952,7 +1952,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HorseDrip.glb",
+    "file": "Models/02_魚類與海洋生物/HorseDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1960,7 +1960,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HotDot.glb",
+    "file": "Models/11_道具與食物/HotDot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1968,7 +1968,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HunterBeret.glb",
+    "file": "Models/01_人物與服裝/HunterBeret.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1976,7 +1976,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\HunterClothes.glb",
+    "file": "Models/01_人物與服裝/HunterClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1984,7 +1984,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\IceCreamShop.glb",
+    "file": "Models/06_建築與設施/IceCreamShop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -1992,7 +1992,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Icosphere.glb",
+    "file": "Models/99_待辨識與空模型/Icosphere.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2000,7 +2000,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Icosphere_0.glb",
+    "file": "Models/99_待辨識與空模型/Icosphere_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2008,7 +2008,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Icosphere_1.glb",
+    "file": "Models/99_待辨識與空模型/Icosphere_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2016,7 +2016,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Icosphere_2.glb",
+    "file": "Models/99_待辨識與空模型/Icosphere_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2024,7 +2024,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Icosphere_3.glb",
+    "file": "Models/99_待辨識與空模型/Icosphere_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2032,7 +2032,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island.glb",
+    "file": "Models/08_地形與場景/Island.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2040,7 +2040,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island1.glb",
+    "file": "Models/08_地形與場景/Island1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2048,7 +2048,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island1Source.glb",
+    "file": "Models/08_地形與場景/Island1Source.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2056,7 +2056,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island2.glb",
+    "file": "Models/08_地形與場景/Island2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2064,7 +2064,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island2Source.glb",
+    "file": "Models/08_地形與場景/Island2Source.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2072,7 +2072,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island3.glb",
+    "file": "Models/08_地形與場景/Island3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2080,7 +2080,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island3Old.glb",
+    "file": "Models/08_地形與場景/Island3Old.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2088,7 +2088,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island3Source.glb",
+    "file": "Models/08_地形與場景/Island3Source.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2096,7 +2096,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island3Source_0.glb",
+    "file": "Models/08_地形與場景/Island3Source_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2104,7 +2104,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Beach.glb",
+    "file": "Models/08_地形與場景/Island4Beach.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2112,7 +2112,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4BeachSource.glb",
+    "file": "Models/08_地形與場景/Island4BeachSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2120,7 +2120,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Docks.glb",
+    "file": "Models/06_建築與設施/Island4Docks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2128,7 +2128,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Grass.glb",
+    "file": "Models/08_地形與場景/Island4Grass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2136,7 +2136,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4GrassSource.glb",
+    "file": "Models/08_地形與場景/Island4GrassSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2144,7 +2144,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Planks.glb",
+    "file": "Models/08_地形與場景/Island4Planks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2152,7 +2152,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Rocks.glb",
+    "file": "Models/08_地形與場景/Island4Rocks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2160,7 +2160,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4RocksSource.glb",
+    "file": "Models/08_地形與場景/Island4RocksSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2168,7 +2168,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island4Source.glb",
+    "file": "Models/08_地形與場景/Island4Source.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2176,7 +2176,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island5.glb",
+    "file": "Models/08_地形與場景/Island5.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2184,7 +2184,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island5Source.glb",
+    "file": "Models/08_地形與場景/Island5Source.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2192,7 +2192,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Island5SourceBackup.glb",
+    "file": "Models/08_地形與場景/Island5SourceBackup.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2200,7 +2200,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Knife.glb",
+    "file": "Models/05_武器與配件/Knife.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2208,7 +2208,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Lava.glb",
+    "file": "Models/09_海水天空與特效/Lava.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2216,7 +2216,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaBall.glb",
+    "file": "Models/09_海水天空與特效/LavaBall.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2224,7 +2224,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaPool.glb",
+    "file": "Models/09_海水天空與特效/LavaPool.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2232,7 +2232,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaRunning.glb",
+    "file": "Models/09_海水天空與特效/LavaRunning.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2240,7 +2240,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaRunningBool.glb",
+    "file": "Models/09_海水天空與特效/LavaRunningBool.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2248,7 +2248,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaSmoke.glb",
+    "file": "Models/09_海水天空與特效/LavaSmoke.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2256,7 +2256,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LavaSource.glb",
+    "file": "Models/09_海水天空與特效/LavaSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2264,7 +2264,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Leech.glb",
+    "file": "Models/02_魚類與海洋生物/Leech.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2272,7 +2272,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LeechBait.glb",
+    "file": "Models/04_釣具與魚餌/LeechBait.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2280,7 +2280,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LeftHand.glb",
+    "file": "Models/01_人物與服裝/LeftHand.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2288,7 +2288,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LifeVest.glb",
+    "file": "Models/01_人物與服裝/LifeVest.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2296,7 +2296,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Lighter.glb",
+    "file": "Models/11_道具與食物/Lighter.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2304,7 +2304,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Lighthouse.glb",
+    "file": "Models/06_建築與設施/Lighthouse.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2312,7 +2312,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LighthouseHat.glb",
+    "file": "Models/01_人物與服裝/LighthouseHat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2320,7 +2320,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LighthouseKeeper.glb",
+    "file": "Models/01_人物與服裝/LighthouseKeeper.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2328,7 +2328,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Lobster.glb",
+    "file": "Models/02_魚類與海洋生物/Lobster.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2336,7 +2336,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\LobsterDrip.glb",
+    "file": "Models/02_魚類與海洋生物/LobsterDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2344,7 +2344,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Mackerel.glb",
+    "file": "Models/02_魚類與海洋生物/Mackerel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2352,7 +2352,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MackerelShiny.glb",
+    "file": "Models/02_魚類與海洋生物/MackerelShiny.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2360,7 +2360,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Map.glb",
+    "file": "Models/11_道具與食物/Map.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2368,7 +2368,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MeatChunk.glb",
+    "file": "Models/11_道具與食物/MeatChunk.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2376,7 +2376,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryBoat.glb",
+    "file": "Models/10_船隻與載具/MilitaryBoat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2384,7 +2384,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryBoatMask.glb",
+    "file": "Models/10_船隻與載具/MilitaryBoatMask.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2392,7 +2392,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryBoatNoMovables.glb",
+    "file": "Models/10_船隻與載具/MilitaryBoatNoMovables.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2400,7 +2400,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryBox.glb",
+    "file": "Models/11_道具與食物/MilitaryBox.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2408,7 +2408,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryBox2.glb",
+    "file": "Models/11_道具與食物/MilitaryBox2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2416,7 +2416,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryClothes.glb",
+    "file": "Models/01_人物與服裝/MilitaryClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2424,7 +2424,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MilitaryHelmet.glb",
+    "file": "Models/01_人物與服裝/MilitaryHelmet.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2432,7 +2432,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MotorHolder.glb",
+    "file": "Models/10_船隻與載具/MotorHolder.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2440,7 +2440,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Mustasche.glb",
+    "file": "Models/01_人物與服裝/Mustasche.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2448,7 +2448,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MutatedBowheadWhale.glb",
+    "file": "Models/02_魚類與海洋生物/MutatedBowheadWhale.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2456,7 +2456,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\MuttonBeard.glb",
+    "file": "Models/01_人物與服裝/MuttonBeard.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2464,7 +2464,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\NameText.glb",
+    "file": "Models/99_待辨識與空模型/NameText.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2472,7 +2472,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Needlefish.glb",
+    "file": "Models/02_魚類與海洋生物/Needlefish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2480,7 +2480,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\NeedlefishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/NeedlefishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2488,7 +2488,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\NPCBucket.glb",
+    "file": "Models/11_道具與食物/NPCBucket.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2496,7 +2496,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\NPCEmptyBeerCan.glb",
+    "file": "Models/11_道具與食物/NPCEmptyBeerCan.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2504,7 +2504,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Oarfish.glb",
+    "file": "Models/02_魚類與海洋生物/Oarfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2512,7 +2512,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\OarfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/OarfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2520,7 +2520,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\OldStairs.glb",
+    "file": "Models/06_建築與設施/OldStairs.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2528,7 +2528,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\OldVest.glb",
+    "file": "Models/01_人物與服裝/OldVest.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2536,7 +2536,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Palm.glb",
+    "file": "Models/07_植物/Palm.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2544,7 +2544,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmBent1.glb",
+    "file": "Models/07_植物/PalmBent1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2552,7 +2552,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmBent2.glb",
+    "file": "Models/07_植物/PalmBent2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2560,7 +2560,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmBent3.glb",
+    "file": "Models/07_植物/PalmBent3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2568,15 +2568,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmCurve.glb",
-    "ok": true,
-    "meshes": 0,
-    "armatures": 0,
-    "materials": 0,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PalmCurveBent1.glb",
+    "file": "Models/99_待辨識與空模型/PalmCurve.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2584,7 +2576,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmCurveBent2.glb",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent1.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2592,7 +2584,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmCurveBent3.glb",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent2.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2600,63 +2592,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PalmLeafs.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\ParkourTestingSource.001.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\ParkourTestingSourceBackup.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\ParkourTestingSourceBackup2.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\Parrotfish.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\ParrotfishDrip.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\Path.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PathCurve.glb",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent3.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2664,7 +2600,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Perch.glb",
+    "file": "Models/07_植物/PalmLeafs.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2672,7 +2608,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PerchDrip.glb",
+    "file": "Models/08_地形與場景/ParkourTestingSource.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2680,7 +2616,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Piercing.glb",
+    "file": "Models/08_地形與場景/ParkourTestingSourceBackup.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2688,7 +2624,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Pike.glb",
+    "file": "Models/08_地形與場景/ParkourTestingSourceBackup2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2696,7 +2632,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PikeDrip.glb",
+    "file": "Models/02_魚類與海洋生物/Parrotfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2704,7 +2640,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTree.001.glb",
+    "file": "Models/02_魚類與海洋生物/ParrotfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2712,7 +2648,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTree.002.glb",
+    "file": "Models/08_地形與場景/Path.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2720,15 +2656,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTree.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeCurve.001.glb",
+    "file": "Models/99_待辨識與空模型/PathCurve.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2736,7 +2664,71 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTreeCurve.002.glb",
+    "file": "Models/02_魚類與海洋生物/Perch.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/02_魚類與海洋生物/PerchDrip.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/01_人物與服裝/Piercing.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/02_魚類與海洋生物/Pike.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/02_魚類與海洋生物/PikeDrip.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/07_植物/PineTree.001.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/07_植物/PineTree.002.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/07_植物/PineTree.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.001.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2744,7 +2736,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTreeCurve.glb",
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.002.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2752,143 +2744,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PineTreeLeafs.001.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeLeafs.002.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeLeafs.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeSmall.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeSmallBake.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PineTreeSmallOld.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\Piranha.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PiranhaDrip.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\Pistol.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolCompensator.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolCompensatorOld.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolLaser.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolMag.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolRedDot.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolScope.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PistolSupressor.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\Plank.glb",
-    "ok": true,
-    "meshes": 1,
-    "armatures": 0,
-    "materials": 1,
-    "actions": 0
-  },
-  {
-    "file": "Models\\PlankCurve.glb",
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -2896,7 +2752,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Professional Lure.glb",
+    "file": "Models/07_植物/PineTreeLeafs.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2904,7 +2760,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Pufferfish.glb",
+    "file": "Models/07_植物/PineTreeLeafs.002.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2912,7 +2768,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\PufferfishFin.glb",
+    "file": "Models/07_植物/PineTreeLeafs.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2920,7 +2776,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Quality Lure.glb",
+    "file": "Models/07_植物/PineTreeSmall.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2928,7 +2784,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Radio.glb",
+    "file": "Models/07_植物/PineTreeSmallBake.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2936,7 +2792,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RadioStick.glb",
+    "file": "Models/07_植物/PineTreeSmallOld.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2944,7 +2800,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RedBet.glb",
+    "file": "Models/02_魚類與海洋生物/Piranha.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2952,7 +2808,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RedConfetti.glb",
+    "file": "Models/02_魚類與海洋生物/PiranhaDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2960,7 +2816,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RedSnapper.glb",
+    "file": "Models/05_武器與配件/Pistol.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2968,7 +2824,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RedSnapperDrip.glb",
+    "file": "Models/05_武器與配件/PistolCompensator.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2976,7 +2832,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RightHand.glb",
+    "file": "Models/05_武器與配件/PistolCompensatorOld.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2984,7 +2840,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Rock2.glb",
+    "file": "Models/05_武器與配件/PistolLaser.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -2992,7 +2848,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Rock3.glb",
+    "file": "Models/05_武器與配件/PistolMag.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3000,7 +2856,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Rock4.glb",
+    "file": "Models/05_武器與配件/PistolRedDot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3008,7 +2864,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Rock5.glb",
+    "file": "Models/05_武器與配件/PistolScope.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3016,7 +2872,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockBeach1.glb",
+    "file": "Models/05_武器與配件/PistolSupressor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3024,7 +2880,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockBeach2.glb",
+    "file": "Models/08_地形與場景/Plank.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3032,7 +2888,15 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockBeach3.glb",
+    "file": "Models/99_待辨識與空模型/PlankCurve.glb",
+    "ok": true,
+    "meshes": 0,
+    "armatures": 0,
+    "materials": 0,
+    "actions": 0
+  },
+  {
+    "file": "Models/04_釣具與魚餌/Professional Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3040,7 +2904,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockBeach4.glb",
+    "file": "Models/02_魚類與海洋生物/Pufferfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3048,7 +2912,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockCrab.glb",
+    "file": "Models/02_魚類與海洋生物/PufferfishFin.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3056,7 +2920,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockCrabDrip.glb",
+    "file": "Models/04_釣具與魚餌/Quality Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3064,7 +2928,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Rocks.glb",
+    "file": "Models/11_道具與食物/Radio.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3072,7 +2936,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RockSource.glb",
+    "file": "Models/11_道具與食物/RadioStick.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3080,7 +2944,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RocksSource.glb",
+    "file": "Models/12_賭場與遊戲機/RedBet.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3088,7 +2952,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RoofBackup.glb",
+    "file": "Models/09_海水天空與特效/RedConfetti.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3096,7 +2960,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\RottenShrimp.glb",
+    "file": "Models/02_魚類與海洋生物/RedSnapper.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3104,7 +2968,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Sailor.glb",
+    "file": "Models/02_魚類與海洋生物/RedSnapperDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3112,7 +2976,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SailorHat.glb",
+    "file": "Models/01_人物與服裝/RightHand.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3120,7 +2984,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Salmon.glb",
+    "file": "Models/08_地形與場景/Rock2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3128,7 +2992,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SalmonDrip.glb",
+    "file": "Models/08_地形與場景/Rock3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3136,7 +3000,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Satchel.glb",
+    "file": "Models/08_地形與場景/Rock4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3144,7 +3008,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Scientific Lure.glb",
+    "file": "Models/08_地形與場景/Rock5.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3152,7 +3016,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ScientistClothes.glb",
+    "file": "Models/08_地形與場景/RockBeach1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3160,7 +3024,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ScientistHair.glb",
+    "file": "Models/08_地形與場景/RockBeach2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3168,7 +3032,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Seagull.glb",
+    "file": "Models/08_地形與場景/RockBeach3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3176,7 +3040,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SeagullOld.glb",
+    "file": "Models/08_地形與場景/RockBeach4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3184,7 +3048,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SeaUrchin.glb",
+    "file": "Models/02_魚類與海洋生物/RockCrab.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3192,7 +3056,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SeaUrchinDrip.glb",
+    "file": "Models/02_魚類與海洋生物/RockCrabDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3200,7 +3064,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Sengarat.glb",
+    "file": "Models/08_地形與場景/Rocks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3208,7 +3072,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SengaratDrip.glb",
+    "file": "Models/08_地形與場景/RockSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3216,7 +3080,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShoeL.glb",
+    "file": "Models/08_地形與場景/RocksSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3224,7 +3088,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShoeR.glb",
+    "file": "Models/06_建築與設施/RoofBackup.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3232,7 +3096,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Shop.glb",
+    "file": "Models/04_釣具與魚餌/RottenShrimp.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3240,7 +3104,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShopDocks.glb",
+    "file": "Models/01_人物與服裝/Sailor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3248,7 +3112,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShopGlass.glb",
+    "file": "Models/01_人物與服裝/SailorHat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3256,7 +3120,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Shopkeeper.glb",
+    "file": "Models/02_魚類與海洋生物/Salmon.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3264,7 +3128,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShopkeeperHat.glb",
+    "file": "Models/02_魚類與海洋生物/SalmonDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3272,7 +3136,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShopSign.glb",
+    "file": "Models/01_人物與服裝/Satchel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3280,7 +3144,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Shotgun.glb",
+    "file": "Models/04_釣具與魚餌/Scientific Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3288,7 +3152,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShotgunCompensator.glb",
+    "file": "Models/01_人物與服裝/ScientistClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3296,7 +3160,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShotgunLaser.glb",
+    "file": "Models/01_人物與服裝/ScientistHair.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3304,7 +3168,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShotgunRedDot.glb",
+    "file": "Models/03_鳥類/Seagull.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3312,7 +3176,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShotgunScope.glb",
+    "file": "Models/03_鳥類/SeagullOld.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3320,7 +3184,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShotgunSuppressor.glb",
+    "file": "Models/02_魚類與海洋生物/SeaUrchin.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3328,7 +3192,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Shrimp.glb",
+    "file": "Models/02_魚類與海洋生物/SeaUrchinDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3336,7 +3200,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\ShrimpDrip.glb",
+    "file": "Models/02_魚類與海洋生物/Sengarat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3344,7 +3208,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SingleUseLighter.glb",
+    "file": "Models/02_魚類與海洋生物/SengaratDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3352,7 +3216,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SkySphere.glb",
+    "file": "Models/01_人物與服裝/ShoeL.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3360,7 +3224,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SliceOfBice.glb",
+    "file": "Models/01_人物與服裝/ShoeR.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3368,7 +3232,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SliceOfBiceMask.glb",
+    "file": "Models/06_建築與設施/Shop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3376,7 +3240,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SliceOfBiceNoMovables.glb",
+    "file": "Models/06_建築與設施/ShopDocks.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3384,7 +3248,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SliceOfBiceWindow.glb",
+    "file": "Models/06_建築與設施/ShopGlass.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3392,7 +3256,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SliceOfBiceWindow_0.glb",
+    "file": "Models/01_人物與服裝/Shopkeeper.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3400,7 +3264,143 @@
     "actions": 0
   },
   {
-    "file": "Models\\SlotMachine.glb",
+    "file": "Models/01_人物與服裝/ShopkeeperHat.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/06_建築與設施/ShopSign.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/Shotgun.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/ShotgunCompensator.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/ShotgunLaser.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/ShotgunRedDot.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/ShotgunScope.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/05_武器與配件/ShotgunSuppressor.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/02_魚類與海洋生物/Shrimp.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/02_魚類與海洋生物/ShrimpDrip.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/11_道具與食物/SingleUseLighter.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/09_海水天空與特效/SkySphere.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/10_船隻與載具/SliceOfBice.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/10_船隻與載具/SliceOfBiceMask.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/10_船隻與載具/SliceOfBiceNoMovables.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/10_船隻與載具/SliceOfBiceWindow.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/10_船隻與載具/SliceOfBiceWindow_0.glb",
+    "ok": true,
+    "meshes": 1,
+    "armatures": 0,
+    "materials": 1,
+    "actions": 0
+  },
+  {
+    "file": "Models/12_賭場與遊戲機/SlotMachine.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3408,7 +3408,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SlotMachineBeach.glb",
+    "file": "Models/12_賭場與遊戲機/SlotMachineBeach.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3416,7 +3416,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SlotMachineCasino.glb",
+    "file": "Models/12_賭場與遊戲機/SlotMachineCasino.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3424,7 +3424,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SlotMachineMilitary.glb",
+    "file": "Models/12_賭場與遊戲機/SlotMachineMilitary.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3432,7 +3432,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SmallMotor.glb",
+    "file": "Models/10_船隻與載具/SmallMotor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3440,7 +3440,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SmallPropeller.glb",
+    "file": "Models/10_船隻與載具/SmallPropeller.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3448,7 +3448,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMG.glb",
+    "file": "Models/05_武器與配件/SMG.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3456,7 +3456,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGCompensator.glb",
+    "file": "Models/05_武器與配件/SMGCompensator.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3464,7 +3464,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGLaser.glb",
+    "file": "Models/05_武器與配件/SMGLaser.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3472,7 +3472,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGMag.glb",
+    "file": "Models/05_武器與配件/SMGMag.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3480,7 +3480,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGRedDot.glb",
+    "file": "Models/05_武器與配件/SMGRedDot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3488,7 +3488,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGScope.glb",
+    "file": "Models/05_武器與配件/SMGScope.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3496,7 +3496,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SMGSuppressor.glb",
+    "file": "Models/05_武器與配件/SMGSuppressor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3504,7 +3504,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperIronSights.glb",
+    "file": "Models/05_武器與配件/SniperIronSights.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3512,7 +3512,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperLaser.glb",
+    "file": "Models/05_武器與配件/SniperLaser.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3520,7 +3520,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperMag.glb",
+    "file": "Models/05_武器與配件/SniperMag.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3528,7 +3528,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperRedDot.glb",
+    "file": "Models/05_武器與配件/SniperRedDot.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3536,7 +3536,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Sniperrifle.glb",
+    "file": "Models/05_武器與配件/Sniperrifle.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3544,7 +3544,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperrifleCompensator.glb",
+    "file": "Models/05_武器與配件/SniperrifleCompensator.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3552,7 +3552,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperrifleDefaultBarrel.glb",
+    "file": "Models/05_武器與配件/SniperrifleDefaultBarrel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3560,7 +3560,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperScope.glb",
+    "file": "Models/05_武器與配件/SniperScope.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3568,7 +3568,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SniperSuppressor.glb",
+    "file": "Models/05_武器與配件/SniperSuppressor.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3576,7 +3576,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Snowball1.glb",
+    "file": "Models/11_道具與食物/Snowball1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3584,7 +3584,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Snowball2.glb",
+    "file": "Models/11_道具與食物/Snowball2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3592,7 +3592,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Snowball3.glb",
+    "file": "Models/11_道具與食物/Snowball3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3600,7 +3600,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Soap.glb",
+    "file": "Models/11_道具與食物/Soap.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3608,7 +3608,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SpiderCrab_v4.glb",
+    "file": "Models/02_魚類與海洋生物/SpiderCrab_v4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3616,7 +3616,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SpidercrabShell.glb",
+    "file": "Models/02_魚類與海洋生物/SpidercrabShell.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3624,7 +3624,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Spike.glb",
+    "file": "Models/99_待辨識與空模型/Spike.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3632,7 +3632,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Standard Lure.glb",
+    "file": "Models/04_釣具與魚餌/Standard Lure.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3640,7 +3640,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Stars.glb",
+    "file": "Models/09_海水天空與特效/Stars.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3648,7 +3648,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Steering.glb",
+    "file": "Models/10_船隻與載具/Steering.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3656,7 +3656,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Stonefish.glb",
+    "file": "Models/02_魚類與海洋生物/Stonefish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3664,7 +3664,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\StonefishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/StonefishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3672,7 +3672,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\StoreClercClothes.glb",
+    "file": "Models/01_人物與服裝/StoreClercClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3680,7 +3680,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\StoreClercHair.glb",
+    "file": "Models/01_人物與服裝/StoreClercHair.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3688,7 +3688,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Strawhat.glb",
+    "file": "Models/01_人物與服裝/Strawhat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3696,7 +3696,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SummerClothes.glb",
+    "file": "Models/01_人物與服裝/SummerClothes.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3704,7 +3704,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Sunfish.glb",
+    "file": "Models/02_魚類與海洋生物/Sunfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3712,7 +3712,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SuperdwarfFish.glb",
+    "file": "Models/02_魚類與海洋生物/SuperdwarfFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3720,7 +3720,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SuperdwarfFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/SuperdwarfFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3728,7 +3728,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SupressorOld.glb",
+    "file": "Models/99_待辨識與空模型/SupressorOld.glb",
     "ok": true,
     "meshes": 0,
     "armatures": 0,
@@ -3736,7 +3736,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Suspenders.glb",
+    "file": "Models/01_人物與服裝/Suspenders.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3744,7 +3744,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\SwampHouse.glb",
+    "file": "Models/06_建築與設施/SwampHouse.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3752,7 +3752,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Table.glb",
+    "file": "Models/06_建築與設施/Table.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3760,7 +3760,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Tent.glb",
+    "file": "Models/06_建築與設施/Tent.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3768,7 +3768,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TextSource.glb",
+    "file": "Models/99_待辨識與空模型/TextSource.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3776,7 +3776,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Throttle.glb",
+    "file": "Models/10_船隻與載具/Throttle.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3784,7 +3784,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Tigerfish.glb",
+    "file": "Models/02_魚類與海洋生物/Tigerfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3792,7 +3792,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TigerfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/TigerfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3800,7 +3800,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TitanTriggerFish.glb",
+    "file": "Models/02_魚類與海洋生物/TitanTriggerFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3808,7 +3808,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TitanTriggerFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/TitanTriggerFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3816,7 +3816,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TransparentObjects.glb",
+    "file": "Models/99_待辨識與空模型/TransparentObjects.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3824,7 +3824,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TransparentObjects_0.glb",
+    "file": "Models/99_待辨識與空模型/TransparentObjects_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3832,7 +3832,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\TreeShop.glb",
+    "file": "Models/06_建築與設施/TreeShop.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3840,7 +3840,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Tuna.glb",
+    "file": "Models/02_魚類與海洋生物/Tuna.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3848,7 +3848,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain.001.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3856,7 +3856,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3864,7 +3864,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain_0.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_0.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3872,7 +3872,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain_1.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3880,7 +3880,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain_2.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3888,7 +3888,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain_3.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3896,7 +3896,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\UnderWaterTerrain_4.glb",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_4.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3904,7 +3904,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\USB.glb",
+    "file": "Models/11_道具與食物/USB.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3912,7 +3912,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\VoxelFish.glb",
+    "file": "Models/02_魚類與海洋生物/VoxelFish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3920,7 +3920,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\VoxelFishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/VoxelFishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3928,7 +3928,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Water2.glb",
+    "file": "Models/09_海水天空與特效/Water2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3936,7 +3936,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\WaterSplash.glb",
+    "file": "Models/09_海水天空與特效/WaterSplash.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3944,7 +3944,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\WhaleFin.glb",
+    "file": "Models/02_魚類與海洋生物/WhaleFin.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3952,7 +3952,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\Wheel.glb",
+    "file": "Models/10_船隻與載具/Wheel.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3960,7 +3960,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\WheelMilitary.glb",
+    "file": "Models/10_船隻與載具/WheelMilitary.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3968,7 +3968,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\WomanHat.001.glb",
+    "file": "Models/01_人物與服裝/WomanHat.001.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3976,7 +3976,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\YellowBoxfish.glb",
+    "file": "Models/02_魚類與海洋生物/YellowBoxfish.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3984,7 +3984,7 @@
     "actions": 0
   },
   {
-    "file": "Models\\YellowBoxfishDrip.glb",
+    "file": "Models/02_魚類與海洋生物/YellowBoxfishDrip.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -3992,7 +3992,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Angelfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Angelfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4000,7 +4000,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Anglerfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Anglerfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4008,7 +4008,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Bass.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bass.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4016,7 +4016,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__BingBong.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__BingBong.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4024,7 +4024,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Blobfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Blobfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4032,7 +4032,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Bluegill.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bluegill.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4040,7 +4040,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Albatross.glb",
+    "file": "Prefabs/03_鳥類/Resources__items__creatures__bosses__Albatross.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4048,7 +4048,7 @@
     "actions": 3
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Blue Shark.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Blue Shark.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4056,7 +4056,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Bowhead Whale.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Bowhead Whale.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4064,7 +4064,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Giant Piranha.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Giant Piranha.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4072,7 +4072,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Goblin Shark.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Goblin Shark.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4080,7 +4080,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Mutated Bowhead Whale.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Mutated Bowhead Whale.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4088,7 +4088,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Pufferfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Pufferfish.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4096,7 +4096,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Spidercrab.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Spidercrab.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4104,7 +4104,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Sunfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Sunfish.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4112,7 +4112,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__The Old Pike.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__The Old Pike.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4120,7 +4120,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__bosses__Tuna.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Tuna.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4128,7 +4128,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Bowlfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bowlfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 0,
@@ -4136,7 +4136,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__BrownCrab.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__BrownCrab.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4144,7 +4144,7 @@
     "actions": 4
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Catfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Catfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4152,7 +4152,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Clam.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Clam.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4160,7 +4160,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Clownfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Clownfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4168,7 +4168,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Cod.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Cod.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4176,7 +4176,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Dripper.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Dripper.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 0,
@@ -4184,7 +4184,7 @@
     "actions": 2
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Eel.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Eel.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4192,7 +4192,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Flying Fish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Flying Fish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4200,7 +4200,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__FootSnail.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__FootSnail.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4208,7 +4208,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Gar.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Gar.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4216,7 +4216,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Goby.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Goby.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4224,7 +4224,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Goldfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Goldfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4232,7 +4232,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Halibut.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Halibut.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4240,7 +4240,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Leech.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Leech.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4248,7 +4248,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Lobster.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Lobster.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4256,7 +4256,7 @@
     "actions": 4
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Mackerel.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Mackerel.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4264,7 +4264,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Needlefish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Needlefish.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4272,7 +4272,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Oarfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Oarfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4280,7 +4280,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Parrotfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Parrotfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4288,7 +4288,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Perch.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Perch.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4296,7 +4296,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Pike.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Pike.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4304,7 +4304,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Piranha.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Piranha.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4312,7 +4312,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Red Snapper.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Red Snapper.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4320,7 +4320,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__RockCrab.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__RockCrab.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4328,7 +4328,7 @@
     "actions": 4
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Salmon.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Salmon.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4336,7 +4336,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Sea Urchin.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Sea Urchin.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4344,7 +4344,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Seagull.glb",
+    "file": "Prefabs/03_鳥類/Resources__items__creatures__Seagull.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4352,7 +4352,7 @@
     "actions": 3
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Seahorse.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Seahorse.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4360,7 +4360,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Sengarat.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Sengarat.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4368,7 +4368,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Shrimp.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Shrimp.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4376,7 +4376,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Stonefish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Stonefish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4384,7 +4384,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Superdwarf Fish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Superdwarf Fish.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4392,7 +4392,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Tigerfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Tigerfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4400,7 +4400,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Triggerfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Triggerfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4408,7 +4408,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Voxel Fish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Voxel Fish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4416,7 +4416,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__creatures__Yellow Boxfish.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Yellow Boxfish.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4424,7 +4424,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__meat__AlbatrossMeat.glb",
+    "file": "Prefabs/03_鳥類/Resources__items__meat__AlbatrossMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4432,7 +4432,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__meat__CrabMeat.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__CrabMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4440,7 +4440,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__meat__PiranhaMeat.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__PiranhaMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4448,7 +4448,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__meat__PufferfishMeat.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__PufferfishMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4456,7 +4456,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__meat__WhaleMeat.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__WhaleMeat.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4464,7 +4464,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__other__DeadPlayer.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__items__other__DeadPlayer.glb",
     "ok": true,
     "meshes": 10,
     "armatures": 3,
@@ -4472,7 +4472,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Assault Rifle.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Assault Rifle.glb",
     "ok": true,
     "meshes": 17,
     "armatures": 1,
@@ -4480,7 +4480,7 @@
     "actions": 5
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Badball.glb",
+    "file": "Prefabs/99_待辨識與空模型/Resources__items__purchasable__Badball.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4488,7 +4488,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Beer.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Beer.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4496,7 +4496,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Brass Knuckles.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Brass Knuckles.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4504,7 +4504,7 @@
     "actions": 2
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__BrassKnucklesPackedBackup.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__BrassKnucklesPackedBackup.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4512,7 +4512,7 @@
     "actions": 2
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Crab Fishing Rod.glb",
+    "file": "Prefabs/04_釣具與魚餌/Resources__items__purchasable__Crab Fishing Rod.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4520,7 +4520,7 @@
     "actions": 3
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Disc.glb",
+    "file": "Prefabs/99_待辨識與空模型/Resources__items__purchasable__Disc.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4528,7 +4528,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Dynamite.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Dynamite.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4536,7 +4536,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Fishing Rod.glb",
+    "file": "Prefabs/04_釣具與魚餌/Resources__items__purchasable__Fishing Rod.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4544,7 +4544,7 @@
     "actions": 1
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Knife.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Knife.glb",
     "ok": true,
     "meshes": 3,
     "armatures": 1,
@@ -4552,7 +4552,7 @@
     "actions": 2
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__KnifePackedBackup.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__KnifePackedBackup.glb",
     "ok": true,
     "meshes": 4,
     "armatures": 1,
@@ -4560,7 +4560,7 @@
     "actions": 2
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Map.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Map.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4568,7 +4568,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Pistol.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Pistol.glb",
     "ok": true,
     "meshes": 14,
     "armatures": 1,
@@ -4576,7 +4576,7 @@
     "actions": 6
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Radio.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Radio.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 0,
@@ -4584,7 +4584,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Shotgun.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Shotgun.glb",
     "ok": true,
     "meshes": 13,
     "armatures": 1,
@@ -4592,7 +4592,7 @@
     "actions": 6
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Smg.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Smg.glb",
     "ok": true,
     "meshes": 13,
     "armatures": 1,
@@ -4600,7 +4600,7 @@
     "actions": 6
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Sniper Rifle.glb",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Sniper Rifle.glb",
     "ok": true,
     "meshes": 17,
     "armatures": 1,
@@ -4608,7 +4608,7 @@
     "actions": 6
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Snowball1.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball1.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4616,7 +4616,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Snowball2.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball2.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4624,7 +4624,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__purchasable__Snowball3.glb",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball3.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4632,7 +4632,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__trophies__Albatross Head.glb",
+    "file": "Prefabs/03_鳥類/Resources__items__trophies__Albatross Head.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4640,7 +4640,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__trophies__GiantPiranhaSkeleton.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__GiantPiranhaSkeleton.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4648,7 +4648,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__trophies__Pufferfish Fin.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Pufferfish Fin.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4656,7 +4656,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__trophies__Spidercrab Shell.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Spidercrab Shell.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4664,7 +4664,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__items__trophies__Whale Fin.glb",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Whale Fin.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4672,7 +4672,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__Default NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__Default NPC.glb",
     "ok": true,
     "meshes": 7,
     "armatures": 3,
@@ -4680,7 +4680,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island1__Lighthouse NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island1__Lighthouse NPC.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4688,7 +4688,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island2__Swamp Daughter NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island2__Swamp Daughter NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4696,7 +4696,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island2__Swamp NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island2__Swamp NPC.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4704,7 +4704,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island3__Grillmaster NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Grillmaster NPC.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4712,7 +4712,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island3__Kiosk NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Kiosk NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4720,7 +4720,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island3__Pufferfish NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Pufferfish NPC.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4728,7 +4728,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island4__Roulette NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__Roulette NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4736,7 +4736,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island4__Seagull NPC.glb",
+    "file": "Prefabs/03_鳥類/Resources__npcs__island4__Seagull NPC.glb",
     "ok": true,
     "meshes": 7,
     "armatures": 3,
@@ -4744,7 +4744,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island4__Slots NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__Slots NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4752,7 +4752,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island4__StoreClerc NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__StoreClerc NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4760,7 +4760,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island4__WeaponSeller NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__WeaponSeller NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4768,7 +4768,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island5__Military NPC 2.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Military NPC 2.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4776,7 +4776,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island5__Military NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Military NPC.glb",
     "ok": true,
     "meshes": 8,
     "armatures": 3,
@@ -4784,7 +4784,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__npcs__island5__Whale NPC.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Whale NPC.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4792,7 +4792,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__Boat.glb",
+    "file": "Prefabs/10_船隻與載具/Resources__other__Boat.glb",
     "ok": true,
     "meshes": 25,
     "armatures": 0,
@@ -4800,7 +4800,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__HandLeft.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__other__HandLeft.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4808,7 +4808,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__HandRight.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__other__HandRight.glb",
     "ok": true,
     "meshes": 2,
     "armatures": 1,
@@ -4816,7 +4816,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__HitMarker.glb",
+    "file": "Prefabs/09_海水天空與特效/Resources__other__HitMarker.glb",
     "ok": true,
     "meshes": 1,
     "armatures": 0,
@@ -4824,7 +4824,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__PlayerHolder.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__other__PlayerHolder.glb",
     "ok": true,
     "meshes": 10,
     "armatures": 3,
@@ -4832,7 +4832,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__PlayerHolderBackup.glb",
+    "file": "Prefabs/01_人物與服裝/Resources__other__PlayerHolderBackup.glb",
     "ok": true,
     "meshes": 9,
     "armatures": 3,
@@ -4840,7 +4840,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__SceneManager.glb",
+    "file": "Prefabs/08_地形與場景/Resources__other__SceneManager.glb",
     "ok": true,
     "meshes": 113,
     "armatures": 24,
@@ -4848,7 +4848,7 @@
     "actions": 0
   },
   {
-    "file": "Prefabs\\Resources__other__SlotMachine.glb",
+    "file": "Prefabs/12_賭場與遊戲機/Resources__other__SlotMachine.glb",
     "ok": true,
     "meshes": 7,
     "armatures": 0,

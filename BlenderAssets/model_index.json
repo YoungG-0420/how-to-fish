@@ -1,0 +1,3338 @@
+[
+  {
+    "name": "Albatross",
+    "type": "Models",
+    "category": "03_鳥類",
+    "file": "Models/03_鳥類/Albatross.glb"
+  },
+  {
+    "name": "AlbatrossHead",
+    "type": "Models",
+    "category": "03_鳥類",
+    "file": "Models/03_鳥類/AlbatrossHead.glb"
+  },
+  {
+    "name": "Amateur Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Amateur Lure.glb"
+  },
+  {
+    "name": "Angelfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Angelfish.glb"
+  },
+  {
+    "name": "AngelfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/AngelfishDrip.glb"
+  },
+  {
+    "name": "Anglerfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Anglerfish.glb"
+  },
+  {
+    "name": "AnglerfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/AnglerfishDrip.glb"
+  },
+  {
+    "name": "Anvil",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Anvil.glb"
+  },
+  {
+    "name": "Arm",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Arm.glb"
+  },
+  {
+    "name": "ArmPuffs",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ArmPuffs.glb"
+  },
+  {
+    "name": "AshesSphere",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/AshesSphere.glb"
+  },
+  {
+    "name": "AssaultRifle",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifle.glb"
+  },
+  {
+    "name": "AssaultRifleCompensator",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleCompensator.glb"
+  },
+  {
+    "name": "AssaultRifleDefaultBarrel",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleDefaultBarrel.glb"
+  },
+  {
+    "name": "AssaultRifleDefaultSight",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleDefaultSight.glb"
+  },
+  {
+    "name": "AssaultRifleLaser",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleLaser.glb"
+  },
+  {
+    "name": "AssaultRifleRedRot",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleRedRot.glb"
+  },
+  {
+    "name": "AssaultRifleScope",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleScope.glb"
+  },
+  {
+    "name": "AssaultRifleSuppressor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AssaultRifleSuppressor.glb"
+  },
+  {
+    "name": "AttachmentBoxBarrel",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AttachmentBoxBarrel.glb"
+  },
+  {
+    "name": "AttachmentBoxBullets",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AttachmentBoxBullets.glb"
+  },
+  {
+    "name": "AttachmentBoxHighFloor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AttachmentBoxHighFloor.glb"
+  },
+  {
+    "name": "AttachmentBoxSight",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/AttachmentBoxSight.glb"
+  },
+  {
+    "name": "Badball",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Badball.glb"
+  },
+  {
+    "name": "BadClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/BadClothes.glb"
+  },
+  {
+    "name": "BadGlasses",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/BadGlasses.glb"
+  },
+  {
+    "name": "BadHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/BadHat.glb"
+  },
+  {
+    "name": "Ball",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Ball.glb"
+  },
+  {
+    "name": "Bass",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Bass.glb"
+  },
+  {
+    "name": "BassDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BassDrip.glb"
+  },
+  {
+    "name": "BeachGrass",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/BeachGrass.glb"
+  },
+  {
+    "name": "BeachPlant1",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/BeachPlant1.glb"
+  },
+  {
+    "name": "BeachPlant2",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/BeachPlant2.glb"
+  },
+  {
+    "name": "Beanie",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Beanie.glb"
+  },
+  {
+    "name": "Beard",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Beard.glb"
+  },
+  {
+    "name": "BeerCan",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/BeerCan.glb"
+  },
+  {
+    "name": "Bench2",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Bench2.glb"
+  },
+  {
+    "name": "BenchSmall",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/BenchSmall.glb"
+  },
+  {
+    "name": "BigMotor",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/BigMotor.glb"
+  },
+  {
+    "name": "BigPropeller",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/BigPropeller.glb"
+  },
+  {
+    "name": "Bikini",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Bikini.glb"
+  },
+  {
+    "name": "BingBong",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BingBong.glb"
+  },
+  {
+    "name": "BingBongDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BingBongDrip.glb"
+  },
+  {
+    "name": "Birdpoop",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/Birdpoop.glb"
+  },
+  {
+    "name": "BlackBet",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/BlackBet.glb"
+  },
+  {
+    "name": "BlackConfetti",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/BlackConfetti.glb"
+  },
+  {
+    "name": "Blobfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Blobfish.glb"
+  },
+  {
+    "name": "BlobfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BlobfishDrip.glb"
+  },
+  {
+    "name": "Bluegill",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Bluegill.glb"
+  },
+  {
+    "name": "BluegillDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BluegillDrip.glb"
+  },
+  {
+    "name": "BlueShark",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BlueShark.glb"
+  },
+  {
+    "name": "Boat.001",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Boat.001.glb"
+  },
+  {
+    "name": "Boat",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Boat.glb"
+  },
+  {
+    "name": "Boat2",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Boat2.glb"
+  },
+  {
+    "name": "BoatKey",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/BoatKey.glb"
+  },
+  {
+    "name": "BoatMask",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/BoatMask.glb"
+  },
+  {
+    "name": "BoatRadar",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/BoatRadar.glb"
+  },
+  {
+    "name": "BoatShop",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/BoatShop.glb"
+  },
+  {
+    "name": "BowheadWhale",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BowheadWhale.glb"
+  },
+  {
+    "name": "Bowl",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Bowl.glb"
+  },
+  {
+    "name": "BowlAndFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BowlAndFish.glb"
+  },
+  {
+    "name": "BowlAndFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BowlAndFishDrip.glb"
+  },
+  {
+    "name": "BowlDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BowlDrip.glb"
+  },
+  {
+    "name": "Bowlfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Bowlfish.glb"
+  },
+  {
+    "name": "BrassKnuckles",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/BrassKnuckles.glb"
+  },
+  {
+    "name": "BrownCrab",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BrownCrab.glb"
+  },
+  {
+    "name": "BrownCrabDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/BrownCrabDrip.glb"
+  },
+  {
+    "name": "Bucket",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Bucket.glb"
+  },
+  {
+    "name": "BucketHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/BucketHat.glb"
+  },
+  {
+    "name": "Buildings",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Buildings.glb"
+  },
+  {
+    "name": "Buildings_0",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Buildings_0.glb"
+  },
+  {
+    "name": "BuildingsNoBevel",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/BuildingsNoBevel.glb"
+  },
+  {
+    "name": "Carrot",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Carrot.glb"
+  },
+  {
+    "name": "Casino",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/Casino.glb"
+  },
+  {
+    "name": "CasinoBase",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/CasinoBase.glb"
+  },
+  {
+    "name": "CasinoClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/CasinoClothes.glb"
+  },
+  {
+    "name": "CasinoGlass",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/CasinoGlass.glb"
+  },
+  {
+    "name": "CasinoHair1",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/CasinoHair1.glb"
+  },
+  {
+    "name": "CasinoHair2",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/CasinoHair2.glb"
+  },
+  {
+    "name": "Catfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Catfish.glb"
+  },
+  {
+    "name": "CatfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/CatfishDrip.glb"
+  },
+  {
+    "name": "Character",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Character.glb"
+  },
+  {
+    "name": "CharacterHead",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/CharacterHead.glb"
+  },
+  {
+    "name": "Circle",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Circle.glb"
+  },
+  {
+    "name": "Circle_0",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Circle_0.glb"
+  },
+  {
+    "name": "Circle_1",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Circle_1.glb"
+  },
+  {
+    "name": "Clam",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Clam.glb"
+  },
+  {
+    "name": "Clownfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Clownfish.glb"
+  },
+  {
+    "name": "ClownfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/ClownfishDrip.glb"
+  },
+  {
+    "name": "Coconut",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/Coconut.glb"
+  },
+  {
+    "name": "Coconut_0",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/Coconut_0.glb"
+  },
+  {
+    "name": "Cod",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Cod.glb"
+  },
+  {
+    "name": "CodDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/CodDrip.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_0.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2_1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_1.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2_2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_2.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2_3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_3.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 2_4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 2_4.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 3_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3_0.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 3_1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 3_1.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 4_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4_0.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 4_1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 4_1.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 5",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 5.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene) 6",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene) 6.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene).glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_0.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)_1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_1.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)_2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_2.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)_3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_3.glb"
+  },
+  {
+    "name": "Combined Mesh (root_ scene)_4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Combined Mesh (root_ scene)_4.glb"
+  },
+  {
+    "name": "CrabFishingRod",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/CrabFishingRod.glb"
+  },
+  {
+    "name": "CrabMeat",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/CrabMeat.glb"
+  },
+  {
+    "name": "Cube.001",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube.001.glb"
+  },
+  {
+    "name": "Cube",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube.glb"
+  },
+  {
+    "name": "Cube_0",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube_0.glb"
+  },
+  {
+    "name": "Cube_1",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube_1.glb"
+  },
+  {
+    "name": "Cube_2",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube_2.glb"
+  },
+  {
+    "name": "Cube_3",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube_3.glb"
+  },
+  {
+    "name": "Cube_4",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Cube_4.glb"
+  },
+  {
+    "name": "Disc",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Disc.glb"
+  },
+  {
+    "name": "Docks",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Docks.glb"
+  },
+  {
+    "name": "DripFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/DripFish.glb"
+  },
+  {
+    "name": "DripFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/DripFishDrip.glb"
+  },
+  {
+    "name": "DripFishDripFull",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/DripFishDripFull.glb"
+  },
+  {
+    "name": "DripFishFull",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/DripFishFull.glb"
+  },
+  {
+    "name": "Dust",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/Dust.glb"
+  },
+  {
+    "name": "Dynamite",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/Dynamite.glb"
+  },
+  {
+    "name": "Eel",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Eel.glb"
+  },
+  {
+    "name": "EelDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/EelDrip.glb"
+  },
+  {
+    "name": "EmptyBeerCan",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/EmptyBeerCan.glb"
+  },
+  {
+    "name": "ExplosionSphere",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/ExplosionSphere.glb"
+  },
+  {
+    "name": "FaceMask",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/FaceMask.glb"
+  },
+  {
+    "name": "FakeWater",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/FakeWater.glb"
+  },
+  {
+    "name": "FakeWater_0",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/FakeWater_0.glb"
+  },
+  {
+    "name": "FakeWater_1",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/FakeWater_1.glb"
+  },
+  {
+    "name": "FakeWater_2",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/FakeWater_2.glb"
+  },
+  {
+    "name": "FakeWater_3",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/FakeWater_3.glb"
+  },
+  {
+    "name": "FastGlasses",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/FastGlasses.glb"
+  },
+  {
+    "name": "Fern",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/Fern.glb"
+  },
+  {
+    "name": "FernBake",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/FernBake.glb"
+  },
+  {
+    "name": "FinishInteractable",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/FinishInteractable.glb"
+  },
+  {
+    "name": "FishingClothes1",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/FishingClothes1.glb"
+  },
+  {
+    "name": "FishingRod",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/FishingRod.glb"
+  },
+  {
+    "name": "Flag",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Flag.glb"
+  },
+  {
+    "name": "Fly",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Fly.glb"
+  },
+  {
+    "name": "FlyingFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/FlyingFish.glb"
+  },
+  {
+    "name": "FlyingFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/FlyingFishDrip.glb"
+  },
+  {
+    "name": "FootSnail",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/FootSnail.glb"
+  },
+  {
+    "name": "Forklift",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Forklift.glb"
+  },
+  {
+    "name": "Fry",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Fry.glb"
+  },
+  {
+    "name": "Gammelgäddan",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Gammelgäddan.glb"
+  },
+  {
+    "name": "Gar",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Gar.glb"
+  },
+  {
+    "name": "GarDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GarDrip.glb"
+  },
+  {
+    "name": "GiantPiranha",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GiantPiranha.glb"
+  },
+  {
+    "name": "GiantPiranhaSkeleton",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GiantPiranhaSkeleton.glb"
+  },
+  {
+    "name": "GoblinShark",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GoblinShark.glb"
+  },
+  {
+    "name": "Goby",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Goby.glb"
+  },
+  {
+    "name": "GobyDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GobyDrip.glb"
+  },
+  {
+    "name": "Goldfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Goldfish.glb"
+  },
+  {
+    "name": "GoldfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/GoldfishDrip.glb"
+  },
+  {
+    "name": "Grass",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/Grass.glb"
+  },
+  {
+    "name": "Green",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Green.glb"
+  },
+  {
+    "name": "GreenBet",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/GreenBet.glb"
+  },
+  {
+    "name": "GreenConfetti",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/GreenConfetti.glb"
+  },
+  {
+    "name": "Grill2",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Grill2.glb"
+  },
+  {
+    "name": "Grillmaster",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Grillmaster.glb"
+  },
+  {
+    "name": "GrillmasterHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/GrillmasterHat.glb"
+  },
+  {
+    "name": "GrillRoof",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/GrillRoof.glb"
+  },
+  {
+    "name": "GunShop",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/GunShop.glb"
+  },
+  {
+    "name": "GunShopDocks",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/GunShopDocks.glb"
+  },
+  {
+    "name": "GunShopGlass",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/GunShopGlass.glb"
+  },
+  {
+    "name": "Halibut",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Halibut.glb"
+  },
+  {
+    "name": "HalibutDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/HalibutDrip.glb"
+  },
+  {
+    "name": "Ham",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Ham.glb"
+  },
+  {
+    "name": "Hands.001",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands.001.glb"
+  },
+  {
+    "name": "Hands.001_0",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands.001_0.glb"
+  },
+  {
+    "name": "Hands.001_1",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands.001_1.glb"
+  },
+  {
+    "name": "Hands.001_2",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands.001_2.glb"
+  },
+  {
+    "name": "Hands",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands.glb"
+  },
+  {
+    "name": "Hands_0",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands_0.glb"
+  },
+  {
+    "name": "Hands_1",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands_1.glb"
+  },
+  {
+    "name": "Hands_2",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands_2.glb"
+  },
+  {
+    "name": "Hands_3",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Hands_3.glb"
+  },
+  {
+    "name": "HollowPointLarge",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/HollowPointLarge.glb"
+  },
+  {
+    "name": "HollowPointMedium",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/HollowPointMedium.glb"
+  },
+  {
+    "name": "HollowPointSmall",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/HollowPointSmall.glb"
+  },
+  {
+    "name": "Homemade Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Homemade Lure.glb"
+  },
+  {
+    "name": "Hoop",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Hoop.glb"
+  },
+  {
+    "name": "HoopNet",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/HoopNet.glb"
+  },
+  {
+    "name": "Horse",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Horse.glb"
+  },
+  {
+    "name": "HorseDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/HorseDrip.glb"
+  },
+  {
+    "name": "HotDot",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/HotDot.glb"
+  },
+  {
+    "name": "HunterBeret",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/HunterBeret.glb"
+  },
+  {
+    "name": "HunterClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/HunterClothes.glb"
+  },
+  {
+    "name": "IceCreamShop",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/IceCreamShop.glb"
+  },
+  {
+    "name": "Icosphere",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Icosphere.glb"
+  },
+  {
+    "name": "Icosphere_0",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Icosphere_0.glb"
+  },
+  {
+    "name": "Icosphere_1",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Icosphere_1.glb"
+  },
+  {
+    "name": "Icosphere_2",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Icosphere_2.glb"
+  },
+  {
+    "name": "Icosphere_3",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Icosphere_3.glb"
+  },
+  {
+    "name": "Island",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island.glb"
+  },
+  {
+    "name": "Island1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island1.glb"
+  },
+  {
+    "name": "Island1Source",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island1Source.glb"
+  },
+  {
+    "name": "Island2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island2.glb"
+  },
+  {
+    "name": "Island2Source",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island2Source.glb"
+  },
+  {
+    "name": "Island3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island3.glb"
+  },
+  {
+    "name": "Island3Old",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island3Old.glb"
+  },
+  {
+    "name": "Island3Source",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island3Source.glb"
+  },
+  {
+    "name": "Island3Source_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island3Source_0.glb"
+  },
+  {
+    "name": "Island4Beach",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4Beach.glb"
+  },
+  {
+    "name": "Island4BeachSource",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4BeachSource.glb"
+  },
+  {
+    "name": "Island4Docks",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Island4Docks.glb"
+  },
+  {
+    "name": "Island4Grass",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4Grass.glb"
+  },
+  {
+    "name": "Island4GrassSource",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4GrassSource.glb"
+  },
+  {
+    "name": "Island4Planks",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4Planks.glb"
+  },
+  {
+    "name": "Island4Rocks",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4Rocks.glb"
+  },
+  {
+    "name": "Island4RocksSource",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4RocksSource.glb"
+  },
+  {
+    "name": "Island4Source",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island4Source.glb"
+  },
+  {
+    "name": "Island5",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island5.glb"
+  },
+  {
+    "name": "Island5Source",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island5Source.glb"
+  },
+  {
+    "name": "Island5SourceBackup",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Island5SourceBackup.glb"
+  },
+  {
+    "name": "Knife",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/Knife.glb"
+  },
+  {
+    "name": "Lava",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/Lava.glb"
+  },
+  {
+    "name": "LavaBall",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaBall.glb"
+  },
+  {
+    "name": "LavaPool",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaPool.glb"
+  },
+  {
+    "name": "LavaRunning",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaRunning.glb"
+  },
+  {
+    "name": "LavaRunningBool",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaRunningBool.glb"
+  },
+  {
+    "name": "LavaSmoke",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaSmoke.glb"
+  },
+  {
+    "name": "LavaSource",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/LavaSource.glb"
+  },
+  {
+    "name": "Leech",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Leech.glb"
+  },
+  {
+    "name": "LeechBait",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/LeechBait.glb"
+  },
+  {
+    "name": "LeftHand",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/LeftHand.glb"
+  },
+  {
+    "name": "LifeVest",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/LifeVest.glb"
+  },
+  {
+    "name": "Lighter",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Lighter.glb"
+  },
+  {
+    "name": "Lighthouse",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Lighthouse.glb"
+  },
+  {
+    "name": "LighthouseHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/LighthouseHat.glb"
+  },
+  {
+    "name": "LighthouseKeeper",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/LighthouseKeeper.glb"
+  },
+  {
+    "name": "Lobster",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Lobster.glb"
+  },
+  {
+    "name": "LobsterDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/LobsterDrip.glb"
+  },
+  {
+    "name": "Mackerel",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Mackerel.glb"
+  },
+  {
+    "name": "MackerelShiny",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/MackerelShiny.glb"
+  },
+  {
+    "name": "Map",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Map.glb"
+  },
+  {
+    "name": "MeatChunk",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/MeatChunk.glb"
+  },
+  {
+    "name": "MilitaryBoat",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/MilitaryBoat.glb"
+  },
+  {
+    "name": "MilitaryBoatMask",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/MilitaryBoatMask.glb"
+  },
+  {
+    "name": "MilitaryBoatNoMovables",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/MilitaryBoatNoMovables.glb"
+  },
+  {
+    "name": "MilitaryBox",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/MilitaryBox.glb"
+  },
+  {
+    "name": "MilitaryBox2",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/MilitaryBox2.glb"
+  },
+  {
+    "name": "MilitaryClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/MilitaryClothes.glb"
+  },
+  {
+    "name": "MilitaryHelmet",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/MilitaryHelmet.glb"
+  },
+  {
+    "name": "MotorHolder",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/MotorHolder.glb"
+  },
+  {
+    "name": "Mustasche",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Mustasche.glb"
+  },
+  {
+    "name": "MutatedBowheadWhale",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/MutatedBowheadWhale.glb"
+  },
+  {
+    "name": "MuttonBeard",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/MuttonBeard.glb"
+  },
+  {
+    "name": "NameText",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/NameText.glb"
+  },
+  {
+    "name": "Needlefish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Needlefish.glb"
+  },
+  {
+    "name": "NeedlefishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/NeedlefishDrip.glb"
+  },
+  {
+    "name": "NPCBucket",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/NPCBucket.glb"
+  },
+  {
+    "name": "NPCEmptyBeerCan",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/NPCEmptyBeerCan.glb"
+  },
+  {
+    "name": "Oarfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Oarfish.glb"
+  },
+  {
+    "name": "OarfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/OarfishDrip.glb"
+  },
+  {
+    "name": "OldStairs",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/OldStairs.glb"
+  },
+  {
+    "name": "OldVest",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/OldVest.glb"
+  },
+  {
+    "name": "Palm",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/Palm.glb"
+  },
+  {
+    "name": "PalmBent1",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PalmBent1.glb"
+  },
+  {
+    "name": "PalmBent2",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PalmBent2.glb"
+  },
+  {
+    "name": "PalmBent3",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PalmBent3.glb"
+  },
+  {
+    "name": "PalmCurve",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PalmCurve.glb"
+  },
+  {
+    "name": "PalmCurveBent1",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent1.glb"
+  },
+  {
+    "name": "PalmCurveBent2",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent2.glb"
+  },
+  {
+    "name": "PalmCurveBent3",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PalmCurveBent3.glb"
+  },
+  {
+    "name": "PalmLeafs",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PalmLeafs.glb"
+  },
+  {
+    "name": "ParkourTestingSource.001",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/ParkourTestingSource.001.glb"
+  },
+  {
+    "name": "ParkourTestingSourceBackup",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/ParkourTestingSourceBackup.glb"
+  },
+  {
+    "name": "ParkourTestingSourceBackup2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/ParkourTestingSourceBackup2.glb"
+  },
+  {
+    "name": "Parrotfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Parrotfish.glb"
+  },
+  {
+    "name": "ParrotfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/ParrotfishDrip.glb"
+  },
+  {
+    "name": "Path",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Path.glb"
+  },
+  {
+    "name": "PathCurve",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PathCurve.glb"
+  },
+  {
+    "name": "Perch",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Perch.glb"
+  },
+  {
+    "name": "PerchDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/PerchDrip.glb"
+  },
+  {
+    "name": "Piercing",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Piercing.glb"
+  },
+  {
+    "name": "Pike",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Pike.glb"
+  },
+  {
+    "name": "PikeDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/PikeDrip.glb"
+  },
+  {
+    "name": "PineTree.001",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTree.001.glb"
+  },
+  {
+    "name": "PineTree.002",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTree.002.glb"
+  },
+  {
+    "name": "PineTree",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTree.glb"
+  },
+  {
+    "name": "PineTreeCurve.001",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.001.glb"
+  },
+  {
+    "name": "PineTreeCurve.002",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.002.glb"
+  },
+  {
+    "name": "PineTreeCurve",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PineTreeCurve.glb"
+  },
+  {
+    "name": "PineTreeLeafs.001",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeLeafs.001.glb"
+  },
+  {
+    "name": "PineTreeLeafs.002",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeLeafs.002.glb"
+  },
+  {
+    "name": "PineTreeLeafs",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeLeafs.glb"
+  },
+  {
+    "name": "PineTreeSmall",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeSmall.glb"
+  },
+  {
+    "name": "PineTreeSmallBake",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeSmallBake.glb"
+  },
+  {
+    "name": "PineTreeSmallOld",
+    "type": "Models",
+    "category": "07_植物",
+    "file": "Models/07_植物/PineTreeSmallOld.glb"
+  },
+  {
+    "name": "Piranha",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Piranha.glb"
+  },
+  {
+    "name": "PiranhaDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/PiranhaDrip.glb"
+  },
+  {
+    "name": "Pistol",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/Pistol.glb"
+  },
+  {
+    "name": "PistolCompensator",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolCompensator.glb"
+  },
+  {
+    "name": "PistolCompensatorOld",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolCompensatorOld.glb"
+  },
+  {
+    "name": "PistolLaser",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolLaser.glb"
+  },
+  {
+    "name": "PistolMag",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolMag.glb"
+  },
+  {
+    "name": "PistolRedDot",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolRedDot.glb"
+  },
+  {
+    "name": "PistolScope",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolScope.glb"
+  },
+  {
+    "name": "PistolSupressor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/PistolSupressor.glb"
+  },
+  {
+    "name": "Plank",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Plank.glb"
+  },
+  {
+    "name": "PlankCurve",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/PlankCurve.glb"
+  },
+  {
+    "name": "Professional Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Professional Lure.glb"
+  },
+  {
+    "name": "Pufferfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Pufferfish.glb"
+  },
+  {
+    "name": "PufferfishFin",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/PufferfishFin.glb"
+  },
+  {
+    "name": "Quality Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Quality Lure.glb"
+  },
+  {
+    "name": "Radio",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Radio.glb"
+  },
+  {
+    "name": "RadioStick",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/RadioStick.glb"
+  },
+  {
+    "name": "RedBet",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/RedBet.glb"
+  },
+  {
+    "name": "RedConfetti",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/RedConfetti.glb"
+  },
+  {
+    "name": "RedSnapper",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/RedSnapper.glb"
+  },
+  {
+    "name": "RedSnapperDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/RedSnapperDrip.glb"
+  },
+  {
+    "name": "RightHand",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/RightHand.glb"
+  },
+  {
+    "name": "Rock2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Rock2.glb"
+  },
+  {
+    "name": "Rock3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Rock3.glb"
+  },
+  {
+    "name": "Rock4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Rock4.glb"
+  },
+  {
+    "name": "Rock5",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Rock5.glb"
+  },
+  {
+    "name": "RockBeach1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RockBeach1.glb"
+  },
+  {
+    "name": "RockBeach2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RockBeach2.glb"
+  },
+  {
+    "name": "RockBeach3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RockBeach3.glb"
+  },
+  {
+    "name": "RockBeach4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RockBeach4.glb"
+  },
+  {
+    "name": "RockCrab",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/RockCrab.glb"
+  },
+  {
+    "name": "RockCrabDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/RockCrabDrip.glb"
+  },
+  {
+    "name": "Rocks",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/Rocks.glb"
+  },
+  {
+    "name": "RockSource",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RockSource.glb"
+  },
+  {
+    "name": "RocksSource",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/RocksSource.glb"
+  },
+  {
+    "name": "RoofBackup",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/RoofBackup.glb"
+  },
+  {
+    "name": "RottenShrimp",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/RottenShrimp.glb"
+  },
+  {
+    "name": "Sailor",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Sailor.glb"
+  },
+  {
+    "name": "SailorHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/SailorHat.glb"
+  },
+  {
+    "name": "Salmon",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Salmon.glb"
+  },
+  {
+    "name": "SalmonDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SalmonDrip.glb"
+  },
+  {
+    "name": "Satchel",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Satchel.glb"
+  },
+  {
+    "name": "Scientific Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Scientific Lure.glb"
+  },
+  {
+    "name": "ScientistClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ScientistClothes.glb"
+  },
+  {
+    "name": "ScientistHair",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ScientistHair.glb"
+  },
+  {
+    "name": "Seagull",
+    "type": "Models",
+    "category": "03_鳥類",
+    "file": "Models/03_鳥類/Seagull.glb"
+  },
+  {
+    "name": "SeagullOld",
+    "type": "Models",
+    "category": "03_鳥類",
+    "file": "Models/03_鳥類/SeagullOld.glb"
+  },
+  {
+    "name": "SeaUrchin",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SeaUrchin.glb"
+  },
+  {
+    "name": "SeaUrchinDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SeaUrchinDrip.glb"
+  },
+  {
+    "name": "Sengarat",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Sengarat.glb"
+  },
+  {
+    "name": "SengaratDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SengaratDrip.glb"
+  },
+  {
+    "name": "ShoeL",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ShoeL.glb"
+  },
+  {
+    "name": "ShoeR",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ShoeR.glb"
+  },
+  {
+    "name": "Shop",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Shop.glb"
+  },
+  {
+    "name": "ShopDocks",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/ShopDocks.glb"
+  },
+  {
+    "name": "ShopGlass",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/ShopGlass.glb"
+  },
+  {
+    "name": "Shopkeeper",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Shopkeeper.glb"
+  },
+  {
+    "name": "ShopkeeperHat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/ShopkeeperHat.glb"
+  },
+  {
+    "name": "ShopSign",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/ShopSign.glb"
+  },
+  {
+    "name": "Shotgun",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/Shotgun.glb"
+  },
+  {
+    "name": "ShotgunCompensator",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/ShotgunCompensator.glb"
+  },
+  {
+    "name": "ShotgunLaser",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/ShotgunLaser.glb"
+  },
+  {
+    "name": "ShotgunRedDot",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/ShotgunRedDot.glb"
+  },
+  {
+    "name": "ShotgunScope",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/ShotgunScope.glb"
+  },
+  {
+    "name": "ShotgunSuppressor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/ShotgunSuppressor.glb"
+  },
+  {
+    "name": "Shrimp",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Shrimp.glb"
+  },
+  {
+    "name": "ShrimpDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/ShrimpDrip.glb"
+  },
+  {
+    "name": "SingleUseLighter",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/SingleUseLighter.glb"
+  },
+  {
+    "name": "SkySphere",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/SkySphere.glb"
+  },
+  {
+    "name": "SliceOfBice",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SliceOfBice.glb"
+  },
+  {
+    "name": "SliceOfBiceMask",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SliceOfBiceMask.glb"
+  },
+  {
+    "name": "SliceOfBiceNoMovables",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SliceOfBiceNoMovables.glb"
+  },
+  {
+    "name": "SliceOfBiceWindow",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SliceOfBiceWindow.glb"
+  },
+  {
+    "name": "SliceOfBiceWindow_0",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SliceOfBiceWindow_0.glb"
+  },
+  {
+    "name": "SlotMachine",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/SlotMachine.glb"
+  },
+  {
+    "name": "SlotMachineBeach",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/SlotMachineBeach.glb"
+  },
+  {
+    "name": "SlotMachineCasino",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/SlotMachineCasino.glb"
+  },
+  {
+    "name": "SlotMachineMilitary",
+    "type": "Models",
+    "category": "12_賭場與遊戲機",
+    "file": "Models/12_賭場與遊戲機/SlotMachineMilitary.glb"
+  },
+  {
+    "name": "SmallMotor",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SmallMotor.glb"
+  },
+  {
+    "name": "SmallPropeller",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/SmallPropeller.glb"
+  },
+  {
+    "name": "SMG",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMG.glb"
+  },
+  {
+    "name": "SMGCompensator",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGCompensator.glb"
+  },
+  {
+    "name": "SMGLaser",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGLaser.glb"
+  },
+  {
+    "name": "SMGMag",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGMag.glb"
+  },
+  {
+    "name": "SMGRedDot",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGRedDot.glb"
+  },
+  {
+    "name": "SMGScope",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGScope.glb"
+  },
+  {
+    "name": "SMGSuppressor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SMGSuppressor.glb"
+  },
+  {
+    "name": "SniperIronSights",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperIronSights.glb"
+  },
+  {
+    "name": "SniperLaser",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperLaser.glb"
+  },
+  {
+    "name": "SniperMag",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperMag.glb"
+  },
+  {
+    "name": "SniperRedDot",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperRedDot.glb"
+  },
+  {
+    "name": "Sniperrifle",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/Sniperrifle.glb"
+  },
+  {
+    "name": "SniperrifleCompensator",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperrifleCompensator.glb"
+  },
+  {
+    "name": "SniperrifleDefaultBarrel",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperrifleDefaultBarrel.glb"
+  },
+  {
+    "name": "SniperScope",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperScope.glb"
+  },
+  {
+    "name": "SniperSuppressor",
+    "type": "Models",
+    "category": "05_武器與配件",
+    "file": "Models/05_武器與配件/SniperSuppressor.glb"
+  },
+  {
+    "name": "Snowball1",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Snowball1.glb"
+  },
+  {
+    "name": "Snowball2",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Snowball2.glb"
+  },
+  {
+    "name": "Snowball3",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Snowball3.glb"
+  },
+  {
+    "name": "Soap",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/Soap.glb"
+  },
+  {
+    "name": "SpiderCrab_v4",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SpiderCrab_v4.glb"
+  },
+  {
+    "name": "SpidercrabShell",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SpidercrabShell.glb"
+  },
+  {
+    "name": "Spike",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/Spike.glb"
+  },
+  {
+    "name": "Standard Lure",
+    "type": "Models",
+    "category": "04_釣具與魚餌",
+    "file": "Models/04_釣具與魚餌/Standard Lure.glb"
+  },
+  {
+    "name": "Stars",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/Stars.glb"
+  },
+  {
+    "name": "Steering",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Steering.glb"
+  },
+  {
+    "name": "Stonefish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Stonefish.glb"
+  },
+  {
+    "name": "StonefishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/StonefishDrip.glb"
+  },
+  {
+    "name": "StoreClercClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/StoreClercClothes.glb"
+  },
+  {
+    "name": "StoreClercHair",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/StoreClercHair.glb"
+  },
+  {
+    "name": "Strawhat",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Strawhat.glb"
+  },
+  {
+    "name": "SummerClothes",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/SummerClothes.glb"
+  },
+  {
+    "name": "Sunfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Sunfish.glb"
+  },
+  {
+    "name": "SuperdwarfFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SuperdwarfFish.glb"
+  },
+  {
+    "name": "SuperdwarfFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/SuperdwarfFishDrip.glb"
+  },
+  {
+    "name": "SupressorOld",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/SupressorOld.glb"
+  },
+  {
+    "name": "Suspenders",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/Suspenders.glb"
+  },
+  {
+    "name": "SwampHouse",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/SwampHouse.glb"
+  },
+  {
+    "name": "Table",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Table.glb"
+  },
+  {
+    "name": "Tent",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/Tent.glb"
+  },
+  {
+    "name": "TextSource",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/TextSource.glb"
+  },
+  {
+    "name": "Throttle",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Throttle.glb"
+  },
+  {
+    "name": "Tigerfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Tigerfish.glb"
+  },
+  {
+    "name": "TigerfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/TigerfishDrip.glb"
+  },
+  {
+    "name": "TitanTriggerFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/TitanTriggerFish.glb"
+  },
+  {
+    "name": "TitanTriggerFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/TitanTriggerFishDrip.glb"
+  },
+  {
+    "name": "TransparentObjects",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/TransparentObjects.glb"
+  },
+  {
+    "name": "TransparentObjects_0",
+    "type": "Models",
+    "category": "99_待辨識與空模型",
+    "file": "Models/99_待辨識與空模型/TransparentObjects_0.glb"
+  },
+  {
+    "name": "TreeShop",
+    "type": "Models",
+    "category": "06_建築與設施",
+    "file": "Models/06_建築與設施/TreeShop.glb"
+  },
+  {
+    "name": "Tuna",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/Tuna.glb"
+  },
+  {
+    "name": "UnderWaterTerrain.001",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain.001.glb"
+  },
+  {
+    "name": "UnderWaterTerrain",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain.glb"
+  },
+  {
+    "name": "UnderWaterTerrain_0",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_0.glb"
+  },
+  {
+    "name": "UnderWaterTerrain_1",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_1.glb"
+  },
+  {
+    "name": "UnderWaterTerrain_2",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_2.glb"
+  },
+  {
+    "name": "UnderWaterTerrain_3",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_3.glb"
+  },
+  {
+    "name": "UnderWaterTerrain_4",
+    "type": "Models",
+    "category": "08_地形與場景",
+    "file": "Models/08_地形與場景/UnderWaterTerrain_4.glb"
+  },
+  {
+    "name": "USB",
+    "type": "Models",
+    "category": "11_道具與食物",
+    "file": "Models/11_道具與食物/USB.glb"
+  },
+  {
+    "name": "VoxelFish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/VoxelFish.glb"
+  },
+  {
+    "name": "VoxelFishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/VoxelFishDrip.glb"
+  },
+  {
+    "name": "Water2",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/Water2.glb"
+  },
+  {
+    "name": "WaterSplash",
+    "type": "Models",
+    "category": "09_海水天空與特效",
+    "file": "Models/09_海水天空與特效/WaterSplash.glb"
+  },
+  {
+    "name": "WhaleFin",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/WhaleFin.glb"
+  },
+  {
+    "name": "Wheel",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/Wheel.glb"
+  },
+  {
+    "name": "WheelMilitary",
+    "type": "Models",
+    "category": "10_船隻與載具",
+    "file": "Models/10_船隻與載具/WheelMilitary.glb"
+  },
+  {
+    "name": "WomanHat.001",
+    "type": "Models",
+    "category": "01_人物與服裝",
+    "file": "Models/01_人物與服裝/WomanHat.001.glb"
+  },
+  {
+    "name": "YellowBoxfish",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/YellowBoxfish.glb"
+  },
+  {
+    "name": "YellowBoxfishDrip",
+    "type": "Models",
+    "category": "02_魚類與海洋生物",
+    "file": "Models/02_魚類與海洋生物/YellowBoxfishDrip.glb"
+  },
+  {
+    "name": "Angelfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Angelfish.glb"
+  },
+  {
+    "name": "Anglerfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Anglerfish.glb"
+  },
+  {
+    "name": "Bass",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bass.glb"
+  },
+  {
+    "name": "BingBong",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__BingBong.glb"
+  },
+  {
+    "name": "Blobfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Blobfish.glb"
+  },
+  {
+    "name": "Bluegill",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bluegill.glb"
+  },
+  {
+    "name": "Albatross",
+    "type": "Prefabs",
+    "category": "03_鳥類",
+    "file": "Prefabs/03_鳥類/Resources__items__creatures__bosses__Albatross.glb"
+  },
+  {
+    "name": "Blue Shark",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Blue Shark.glb"
+  },
+  {
+    "name": "Bowhead Whale",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Bowhead Whale.glb"
+  },
+  {
+    "name": "Giant Piranha",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Giant Piranha.glb"
+  },
+  {
+    "name": "Goblin Shark",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Goblin Shark.glb"
+  },
+  {
+    "name": "Mutated Bowhead Whale",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Mutated Bowhead Whale.glb"
+  },
+  {
+    "name": "Pufferfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Pufferfish.glb"
+  },
+  {
+    "name": "Spidercrab",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Spidercrab.glb"
+  },
+  {
+    "name": "Sunfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Sunfish.glb"
+  },
+  {
+    "name": "The Old Pike",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__The Old Pike.glb"
+  },
+  {
+    "name": "Tuna",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__bosses__Tuna.glb"
+  },
+  {
+    "name": "Bowlfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Bowlfish.glb"
+  },
+  {
+    "name": "BrownCrab",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__BrownCrab.glb"
+  },
+  {
+    "name": "Catfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Catfish.glb"
+  },
+  {
+    "name": "Clam",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Clam.glb"
+  },
+  {
+    "name": "Clownfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Clownfish.glb"
+  },
+  {
+    "name": "Cod",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Cod.glb"
+  },
+  {
+    "name": "Dripper",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Dripper.glb"
+  },
+  {
+    "name": "Eel",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Eel.glb"
+  },
+  {
+    "name": "Flying Fish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Flying Fish.glb"
+  },
+  {
+    "name": "FootSnail",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__FootSnail.glb"
+  },
+  {
+    "name": "Gar",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Gar.glb"
+  },
+  {
+    "name": "Goby",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Goby.glb"
+  },
+  {
+    "name": "Goldfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Goldfish.glb"
+  },
+  {
+    "name": "Halibut",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Halibut.glb"
+  },
+  {
+    "name": "Leech",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Leech.glb"
+  },
+  {
+    "name": "Lobster",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Lobster.glb"
+  },
+  {
+    "name": "Mackerel",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Mackerel.glb"
+  },
+  {
+    "name": "Needlefish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Needlefish.glb"
+  },
+  {
+    "name": "Oarfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Oarfish.glb"
+  },
+  {
+    "name": "Parrotfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Parrotfish.glb"
+  },
+  {
+    "name": "Perch",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Perch.glb"
+  },
+  {
+    "name": "Pike",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Pike.glb"
+  },
+  {
+    "name": "Piranha",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Piranha.glb"
+  },
+  {
+    "name": "Red Snapper",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Red Snapper.glb"
+  },
+  {
+    "name": "RockCrab",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__RockCrab.glb"
+  },
+  {
+    "name": "Salmon",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Salmon.glb"
+  },
+  {
+    "name": "Sea Urchin",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Sea Urchin.glb"
+  },
+  {
+    "name": "Seagull",
+    "type": "Prefabs",
+    "category": "03_鳥類",
+    "file": "Prefabs/03_鳥類/Resources__items__creatures__Seagull.glb"
+  },
+  {
+    "name": "Seahorse",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Seahorse.glb"
+  },
+  {
+    "name": "Sengarat",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Sengarat.glb"
+  },
+  {
+    "name": "Shrimp",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Shrimp.glb"
+  },
+  {
+    "name": "Stonefish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Stonefish.glb"
+  },
+  {
+    "name": "Superdwarf Fish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Superdwarf Fish.glb"
+  },
+  {
+    "name": "Tigerfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Tigerfish.glb"
+  },
+  {
+    "name": "Triggerfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Triggerfish.glb"
+  },
+  {
+    "name": "Voxel Fish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Voxel Fish.glb"
+  },
+  {
+    "name": "Yellow Boxfish",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__creatures__Yellow Boxfish.glb"
+  },
+  {
+    "name": "AlbatrossMeat",
+    "type": "Prefabs",
+    "category": "03_鳥類",
+    "file": "Prefabs/03_鳥類/Resources__items__meat__AlbatrossMeat.glb"
+  },
+  {
+    "name": "CrabMeat",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__CrabMeat.glb"
+  },
+  {
+    "name": "PiranhaMeat",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__PiranhaMeat.glb"
+  },
+  {
+    "name": "PufferfishMeat",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__PufferfishMeat.glb"
+  },
+  {
+    "name": "WhaleMeat",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__meat__WhaleMeat.glb"
+  },
+  {
+    "name": "DeadPlayer",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__items__other__DeadPlayer.glb"
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Assault Rifle.glb"
+  },
+  {
+    "name": "Badball",
+    "type": "Prefabs",
+    "category": "99_待辨識與空模型",
+    "file": "Prefabs/99_待辨識與空模型/Resources__items__purchasable__Badball.glb"
+  },
+  {
+    "name": "Beer",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Beer.glb"
+  },
+  {
+    "name": "Brass Knuckles",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Brass Knuckles.glb"
+  },
+  {
+    "name": "BrassKnucklesPackedBackup",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__BrassKnucklesPackedBackup.glb"
+  },
+  {
+    "name": "Crab Fishing Rod",
+    "type": "Prefabs",
+    "category": "04_釣具與魚餌",
+    "file": "Prefabs/04_釣具與魚餌/Resources__items__purchasable__Crab Fishing Rod.glb"
+  },
+  {
+    "name": "Disc",
+    "type": "Prefabs",
+    "category": "99_待辨識與空模型",
+    "file": "Prefabs/99_待辨識與空模型/Resources__items__purchasable__Disc.glb"
+  },
+  {
+    "name": "Dynamite",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Dynamite.glb"
+  },
+  {
+    "name": "Fishing Rod",
+    "type": "Prefabs",
+    "category": "04_釣具與魚餌",
+    "file": "Prefabs/04_釣具與魚餌/Resources__items__purchasable__Fishing Rod.glb"
+  },
+  {
+    "name": "Knife",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Knife.glb"
+  },
+  {
+    "name": "KnifePackedBackup",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__KnifePackedBackup.glb"
+  },
+  {
+    "name": "Map",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Map.glb"
+  },
+  {
+    "name": "Pistol",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Pistol.glb"
+  },
+  {
+    "name": "Radio",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Radio.glb"
+  },
+  {
+    "name": "Shotgun",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Shotgun.glb"
+  },
+  {
+    "name": "Smg",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Smg.glb"
+  },
+  {
+    "name": "Sniper Rifle",
+    "type": "Prefabs",
+    "category": "05_武器與配件",
+    "file": "Prefabs/05_武器與配件/Resources__items__purchasable__Sniper Rifle.glb"
+  },
+  {
+    "name": "Snowball1",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball1.glb"
+  },
+  {
+    "name": "Snowball2",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball2.glb"
+  },
+  {
+    "name": "Snowball3",
+    "type": "Prefabs",
+    "category": "11_道具與食物",
+    "file": "Prefabs/11_道具與食物/Resources__items__purchasable__Snowball3.glb"
+  },
+  {
+    "name": "Albatross Head",
+    "type": "Prefabs",
+    "category": "03_鳥類",
+    "file": "Prefabs/03_鳥類/Resources__items__trophies__Albatross Head.glb"
+  },
+  {
+    "name": "GiantPiranhaSkeleton",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__GiantPiranhaSkeleton.glb"
+  },
+  {
+    "name": "Pufferfish Fin",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Pufferfish Fin.glb"
+  },
+  {
+    "name": "Spidercrab Shell",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Spidercrab Shell.glb"
+  },
+  {
+    "name": "Whale Fin",
+    "type": "Prefabs",
+    "category": "02_魚類與海洋生物",
+    "file": "Prefabs/02_魚類與海洋生物/Resources__items__trophies__Whale Fin.glb"
+  },
+  {
+    "name": "Default NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__Default NPC.glb"
+  },
+  {
+    "name": "Lighthouse NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island1__Lighthouse NPC.glb"
+  },
+  {
+    "name": "Swamp Daughter NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island2__Swamp Daughter NPC.glb"
+  },
+  {
+    "name": "Swamp NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island2__Swamp NPC.glb"
+  },
+  {
+    "name": "Grillmaster NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Grillmaster NPC.glb"
+  },
+  {
+    "name": "Kiosk NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Kiosk NPC.glb"
+  },
+  {
+    "name": "Pufferfish NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island3__Pufferfish NPC.glb"
+  },
+  {
+    "name": "Roulette NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__Roulette NPC.glb"
+  },
+  {
+    "name": "Seagull NPC",
+    "type": "Prefabs",
+    "category": "03_鳥類",
+    "file": "Prefabs/03_鳥類/Resources__npcs__island4__Seagull NPC.glb"
+  },
+  {
+    "name": "Slots NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__Slots NPC.glb"
+  },
+  {
+    "name": "StoreClerc NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__StoreClerc NPC.glb"
+  },
+  {
+    "name": "WeaponSeller NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island4__WeaponSeller NPC.glb"
+  },
+  {
+    "name": "Military NPC 2",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Military NPC 2.glb"
+  },
+  {
+    "name": "Military NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Military NPC.glb"
+  },
+  {
+    "name": "Whale NPC",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__npcs__island5__Whale NPC.glb"
+  },
+  {
+    "name": "Boat",
+    "type": "Prefabs",
+    "category": "10_船隻與載具",
+    "file": "Prefabs/10_船隻與載具/Resources__other__Boat.glb"
+  },
+  {
+    "name": "HandLeft",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__other__HandLeft.glb"
+  },
+  {
+    "name": "HandRight",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__other__HandRight.glb"
+  },
+  {
+    "name": "HitMarker",
+    "type": "Prefabs",
+    "category": "09_海水天空與特效",
+    "file": "Prefabs/09_海水天空與特效/Resources__other__HitMarker.glb"
+  },
+  {
+    "name": "PlayerHolder",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__other__PlayerHolder.glb"
+  },
+  {
+    "name": "PlayerHolderBackup",
+    "type": "Prefabs",
+    "category": "01_人物與服裝",
+    "file": "Prefabs/01_人物與服裝/Resources__other__PlayerHolderBackup.glb"
+  },
+  {
+    "name": "SceneManager",
+    "type": "Prefabs",
+    "category": "08_地形與場景",
+    "file": "Prefabs/08_地形與場景/Resources__other__SceneManager.glb"
+  },
+  {
+    "name": "SlotMachine",
+    "type": "Prefabs",
+    "category": "12_賭場與遊戲機",
+    "file": "Prefabs/12_賭場與遊戲機/Resources__other__SlotMachine.glb"
+  }
+]
